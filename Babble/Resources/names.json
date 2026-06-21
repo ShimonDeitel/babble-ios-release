@@ -1,0 +1,6751 @@
+[
+ {
+  "name": "Liam",
+  "gender": "boy",
+  "origin": "Irish",
+  "meaning": "A short form of William, meaning strong-willed warrior and protector",
+  "popularityByYear": [
+   42,
+   42,
+   40,
+   55,
+   63,
+   49,
+   55,
+   32,
+   36
+  ]
+ },
+ {
+  "name": "Noah",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Rest, comfort, and repose",
+  "popularityByYear": [
+   97,
+   77,
+   74,
+   59,
+   56,
+   44,
+   35,
+   21,
+   9
+  ]
+ },
+ {
+  "name": "Oliver",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Olive tree, a symbol of peace",
+  "popularityByYear": [
+   97,
+   81,
+   78,
+   69,
+   45,
+   46,
+   36,
+   15,
+   14
+  ]
+ },
+ {
+  "name": "Elijah",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "The Lord is my God",
+  "popularityByYear": [
+   5,
+   8,
+   14,
+   28,
+   26,
+   27,
+   32,
+   72,
+   100
+  ]
+ },
+ {
+  "name": "James",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Supplanter, one who follows",
+  "popularityByYear": [
+   12,
+   24,
+   49,
+   54,
+   82,
+   95,
+   79,
+   55,
+   51
+  ]
+ },
+ {
+  "name": "William",
+  "gender": "boy",
+  "origin": "Germanic",
+  "meaning": "Resolute protector with a strong will",
+  "popularityByYear": [
+   9,
+   10,
+   24,
+   26,
+   30,
+   40,
+   44,
+   71,
+   100
+  ]
+ },
+ {
+  "name": "Benjamin",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Son of the right hand",
+  "popularityByYear": [
+   88,
+   87,
+   69,
+   68,
+   49,
+   35,
+   37,
+   16,
+   16
+  ]
+ },
+ {
+  "name": "Lucas",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Bringer of light, from Lucania",
+  "popularityByYear": [
+   7,
+   20,
+   34,
+   47,
+   50,
+   58,
+   71,
+   82,
+   91
+  ]
+ },
+ {
+  "name": "Henry",
+  "gender": "boy",
+  "origin": "Germanic",
+  "meaning": "Ruler of the home or estate",
+  "popularityByYear": [
+   67,
+   62,
+   42,
+   53,
+   59,
+   40,
+   51,
+   53,
+   62
+  ]
+ },
+ {
+  "name": "Theodore",
+  "gender": "boy",
+  "origin": "Greek",
+  "meaning": "Gift of God",
+  "popularityByYear": [
+   93,
+   88,
+   86,
+   75,
+   65,
+   43,
+   36,
+   36,
+   13
+  ]
+ },
+ {
+  "name": "Jack",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "God is gracious, a form of John",
+  "popularityByYear": [
+   7,
+   18,
+   34,
+   59,
+   68,
+   87,
+   99,
+   78,
+   62
+  ]
+ },
+ {
+  "name": "Levi",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Joined or attached in harmony",
+  "popularityByYear": [
+   57,
+   58,
+   39,
+   38,
+   62,
+   52,
+   63,
+   58,
+   55
+  ]
+ },
+ {
+  "name": "Alexander",
+  "gender": "boy",
+  "origin": "Greek",
+  "meaning": "Defender of the people",
+  "popularityByYear": [
+   39,
+   62,
+   78,
+   89,
+   83,
+   54,
+   50,
+   21,
+   5
+  ]
+ },
+ {
+  "name": "Sebastian",
+  "gender": "boy",
+  "origin": "Greek",
+  "meaning": "From the ancient city of Sebaste, venerable",
+  "popularityByYear": [
+   58,
+   51,
+   49,
+   57,
+   51,
+   61,
+   41,
+   55,
+   66
+  ]
+ },
+ {
+  "name": "Mateo",
+  "gender": "boy",
+  "origin": "Spanish",
+  "meaning": "Gift of God, a form of Matthew",
+  "popularityByYear": [
+   95,
+   93,
+   78,
+   64,
+   57,
+   49,
+   35,
+   30,
+   13
+  ]
+ },
+ {
+  "name": "Daniel",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "God is my judge",
+  "popularityByYear": [
+   59,
+   44,
+   47,
+   55,
+   59,
+   53,
+   40,
+   57,
+   60
+  ]
+ },
+ {
+  "name": "Michael",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Who is like God",
+  "popularityByYear": [
+   92,
+   88,
+   80,
+   63,
+   54,
+   57,
+   38,
+   37,
+   26
+  ]
+ },
+ {
+  "name": "Samuel",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Heard by God, name of God",
+  "popularityByYear": [
+   37,
+   57,
+   85,
+   97,
+   72,
+   55,
+   48,
+   27,
+   16
+  ]
+ },
+ {
+  "name": "Joseph",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "He will add, God shall increase",
+  "popularityByYear": [
+   15,
+   15,
+   26,
+   44,
+   52,
+   64,
+   68,
+   81,
+   96
+  ]
+ },
+ {
+  "name": "David",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Beloved",
+  "popularityByYear": [
+   86,
+   97,
+   81,
+   75,
+   64,
+   54,
+   36,
+   34,
+   17
+  ]
+ },
+ {
+  "name": "Julian",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Youthful, downy-bearded",
+  "popularityByYear": [
+   8,
+   20,
+   19,
+   23,
+   22,
+   29,
+   34,
+   67,
+   100
+  ]
+ },
+ {
+  "name": "Gabriel",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "God is my strength",
+  "popularityByYear": [
+   6,
+   22,
+   27,
+   34,
+   46,
+   67,
+   76,
+   77,
+   91
+  ]
+ },
+ {
+  "name": "Anthony",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Priceless, of great worth",
+  "popularityByYear": [
+   16,
+   18,
+   25,
+   42,
+   48,
+   60,
+   76,
+   84,
+   91
+  ]
+ },
+ {
+  "name": "Isaac",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "He will laugh, laughter",
+  "popularityByYear": [
+   94,
+   97,
+   87,
+   72,
+   62,
+   50,
+   36,
+   35,
+   20
+  ]
+ },
+ {
+  "name": "Leo",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Lion, brave and bold",
+  "popularityByYear": [
+   4,
+   7,
+   21,
+   22,
+   26,
+   32,
+   37,
+   73,
+   100
+  ]
+ },
+ {
+  "name": "Lincoln",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "Town by the pool",
+  "popularityByYear": [
+   62,
+   52,
+   38,
+   59,
+   37,
+   40,
+   55,
+   41,
+   40
+  ]
+ },
+ {
+  "name": "Jaxon",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "Son of Jack",
+  "popularityByYear": [
+   14,
+   20,
+   12,
+   23,
+   33,
+   39,
+   44,
+   74,
+   100
+  ]
+ },
+ {
+  "name": "Adrian",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "From the Adriatic Sea region",
+  "popularityByYear": [
+   16,
+   13,
+   25,
+   48,
+   57,
+   69,
+   69,
+   79,
+   94
+  ]
+ },
+ {
+  "name": "Jonathan",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Gift of God",
+  "popularityByYear": [
+   4,
+   19,
+   17,
+   30,
+   21,
+   28,
+   37,
+   66,
+   100
+  ]
+ },
+ {
+  "name": "Nolan",
+  "gender": "boy",
+  "origin": "Irish",
+  "meaning": "Descendant of a champion",
+  "popularityByYear": [
+   7,
+   21,
+   38,
+   50,
+   63,
+   71,
+   85,
+   99,
+   82
+  ]
+ },
+ {
+  "name": "Christopher",
+  "gender": "boy",
+  "origin": "Greek",
+  "meaning": "Bearer of Christ",
+  "popularityByYear": [
+   92,
+   80,
+   66,
+   65,
+   56,
+   42,
+   24,
+   24,
+   8
+  ]
+ },
+ {
+  "name": "Ezra",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Help, helper",
+  "popularityByYear": [
+   12,
+   20,
+   32,
+   48,
+   58,
+   64,
+   68,
+   77,
+   96
+  ]
+ },
+ {
+  "name": "Thomas",
+  "gender": "boy",
+  "origin": "Aramaic",
+  "meaning": "Twin",
+  "popularityByYear": [
+   4,
+   22,
+   25,
+   44,
+   58,
+   59,
+   72,
+   78,
+   100
+  ]
+ },
+ {
+  "name": "Charles",
+  "gender": "boy",
+  "origin": "Germanic",
+  "meaning": "Free man",
+  "popularityByYear": [
+   92,
+   92,
+   73,
+   72,
+   54,
+   49,
+   43,
+   32,
+   22
+  ]
+ },
+ {
+  "name": "Caleb",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Wholehearted, faithful, devotion",
+  "popularityByYear": [
+   97,
+   87,
+   76,
+   73,
+   64,
+   48,
+   36,
+   27,
+   19
+  ]
+ },
+ {
+  "name": "Josiah",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "The Lord supports and heals",
+  "popularityByYear": [
+   95,
+   82,
+   80,
+   68,
+   59,
+   35,
+   24,
+   20,
+   12
+  ]
+ },
+ {
+  "name": "Hudson",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "Son of Hugh",
+  "popularityByYear": [
+   84,
+   91,
+   76,
+   71,
+   57,
+   45,
+   47,
+   28,
+   27
+  ]
+ },
+ {
+  "name": "Christian",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Follower of Christ",
+  "popularityByYear": [
+   8,
+   17,
+   26,
+   41,
+   58,
+   64,
+   77,
+   81,
+   97
+  ]
+ },
+ {
+  "name": "Colton",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "From the coal or dark town",
+  "popularityByYear": [
+   41,
+   52,
+   53,
+   39,
+   48,
+   45,
+   50,
+   43,
+   53
+  ]
+ },
+ {
+  "name": "Eli",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Ascended, uplifted, high",
+  "popularityByYear": [
+   47,
+   64,
+   47,
+   50,
+   33,
+   57,
+   39,
+   36,
+   57
+  ]
+ },
+ {
+  "name": "Nathan",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "He gave, gift",
+  "popularityByYear": [
+   47,
+   53,
+   59,
+   48,
+   35,
+   67,
+   43,
+   45,
+   51
+  ]
+ },
+ {
+  "name": "Aaron",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Exalted, strong mountain",
+  "popularityByYear": [
+   89,
+   85,
+   73,
+   67,
+   58,
+   57,
+   47,
+   35,
+   26
+  ]
+ },
+ {
+  "name": "Cameron",
+  "gender": "unisex",
+  "origin": "Scottish",
+  "meaning": "Crooked nose, a Highland clan name",
+  "popularityByYear": [
+   6,
+   23,
+   27,
+   44,
+   46,
+   61,
+   78,
+   85,
+   100
+  ]
+ },
+ {
+  "name": "Connor",
+  "gender": "boy",
+  "origin": "Irish",
+  "meaning": "Lover of hounds, wolf-lover",
+  "popularityByYear": [
+   15,
+   20,
+   14,
+   29,
+   23,
+   38,
+   43,
+   68,
+   100
+  ]
+ },
+ {
+  "name": "Jeremiah",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "The Lord will exalt",
+  "popularityByYear": [
+   4,
+   17,
+   25,
+   21,
+   33,
+   40,
+   37,
+   78,
+   100
+  ]
+ },
+ {
+  "name": "Ezekiel",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "God strengthens",
+  "popularityByYear": [
+   41,
+   54,
+   56,
+   45,
+   49,
+   50,
+   50,
+   53,
+   41
+  ]
+ },
+ {
+  "name": "Roman",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Citizen of Rome",
+  "popularityByYear": [
+   9,
+   18,
+   28,
+   47,
+   46,
+   68,
+   70,
+   82,
+   98
+  ]
+ },
+ {
+  "name": "Elias",
+  "gender": "boy",
+  "origin": "Greek",
+  "meaning": "The Lord is my God",
+  "popularityByYear": [
+   93,
+   96,
+   81,
+   68,
+   53,
+   44,
+   47,
+   27,
+   15
+  ]
+ },
+ {
+  "name": "Maxwell",
+  "gender": "boy",
+  "origin": "Scottish",
+  "meaning": "Great spring or stream",
+  "popularityByYear": [
+   83,
+   84,
+   82,
+   69,
+   58,
+   54,
+   45,
+   28,
+   19
+  ]
+ },
+ {
+  "name": "Silas",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Of the forest, woods",
+  "popularityByYear": [
+   84,
+   89,
+   87,
+   72,
+   56,
+   47,
+   33,
+   34,
+   19
+  ]
+ },
+ {
+  "name": "Wyatt",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "Brave in war",
+  "popularityByYear": [
+   17,
+   25,
+   32,
+   44,
+   56,
+   67,
+   77,
+   87,
+   91
+  ]
+ },
+ {
+  "name": "Greyson",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "Son of the steward",
+  "popularityByYear": [
+   4,
+   27,
+   45,
+   50,
+   68,
+   78,
+   98,
+   86,
+   60
+  ]
+ },
+ {
+  "name": "Asher",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Happy, blessed, fortunate",
+  "popularityByYear": [
+   51,
+   58,
+   47,
+   57,
+   50,
+   43,
+   58,
+   63,
+   45
+  ]
+ },
+ {
+  "name": "Kai",
+  "gender": "unisex",
+  "origin": "Hawaiian",
+  "meaning": "The sea",
+  "popularityByYear": [
+   89,
+   91,
+   86,
+   63,
+   57,
+   47,
+   36,
+   29,
+   25
+  ]
+ },
+ {
+  "name": "Felix",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Happy, lucky, fortunate",
+  "popularityByYear": [
+   90,
+   90,
+   80,
+   73,
+   56,
+   51,
+   40,
+   35,
+   27
+  ]
+ },
+ {
+  "name": "Miles",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Soldier, merciful",
+  "popularityByYear": [
+   53,
+   48,
+   62,
+   55,
+   46,
+   58,
+   56,
+   50,
+   39
+  ]
+ },
+ {
+  "name": "Arthur",
+  "gender": "boy",
+  "origin": "Celtic",
+  "meaning": "Bear, noble and courageous",
+  "popularityByYear": [
+   6,
+   20,
+   33,
+   47,
+   57,
+   57,
+   73,
+   83,
+   100
+  ]
+ },
+ {
+  "name": "Calvin",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Little bald one",
+  "popularityByYear": [
+   64,
+   50,
+   46,
+   45,
+   53,
+   68,
+   69,
+   46,
+   47
+  ]
+ },
+ {
+  "name": "Vincent",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Conquering, prevailing",
+  "popularityByYear": [
+   95,
+   77,
+   74,
+   59,
+   59,
+   47,
+   25,
+   20,
+   5
+  ]
+ },
+ {
+  "name": "Patrick",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Nobleman, of noble birth",
+  "popularityByYear": [
+   9,
+   15,
+   16,
+   28,
+   35,
+   33,
+   40,
+   79,
+   100
+  ]
+ },
+ {
+  "name": "Oscar",
+  "gender": "boy",
+  "origin": "Irish",
+  "meaning": "Deer-lover, friend of deer",
+  "popularityByYear": [
+   96,
+   97,
+   81,
+   70,
+   67,
+   45,
+   44,
+   36,
+   20
+  ]
+ },
+ {
+  "name": "Edward",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "Wealthy guardian",
+  "popularityByYear": [
+   13,
+   9,
+   24,
+   26,
+   25,
+   38,
+   43,
+   74,
+   100
+  ]
+ },
+ {
+  "name": "Walter",
+  "gender": "boy",
+  "origin": "Germanic",
+  "meaning": "Ruler of the army",
+  "popularityByYear": [
+   46,
+   44,
+   43,
+   44,
+   55,
+   49,
+   37,
+   44,
+   55
+  ]
+ },
+ {
+  "name": "Marcus",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Dedicated to Mars, warlike",
+  "popularityByYear": [
+   39,
+   49,
+   55,
+   44,
+   50,
+   50,
+   64,
+   53,
+   64
+  ]
+ },
+ {
+  "name": "Beau",
+  "gender": "boy",
+  "origin": "French",
+  "meaning": "Handsome, beautiful",
+  "popularityByYear": [
+   4,
+   11,
+   15,
+   28,
+   27,
+   39,
+   45,
+   79,
+   100
+  ]
+ },
+ {
+  "name": "George",
+  "gender": "boy",
+  "origin": "Greek",
+  "meaning": "Farmer, worker of the earth",
+  "popularityByYear": [
+   95,
+   92,
+   87,
+   66,
+   60,
+   46,
+   37,
+   29,
+   20
+  ]
+ },
+ {
+  "name": "Maverick",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "Independent, free-spirited",
+  "popularityByYear": [
+   8,
+   23,
+   34,
+   46,
+   51,
+   67,
+   68,
+   90,
+   95
+  ]
+ },
+ {
+  "name": "Tobias",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "God is good",
+  "popularityByYear": [
+   88,
+   91,
+   72,
+   65,
+   54,
+   44,
+   24,
+   14,
+   13
+  ]
+ },
+ {
+  "name": "Abraham",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Father of many nations",
+  "popularityByYear": [
+   14,
+   13,
+   13,
+   16,
+   25,
+   32,
+   36,
+   69,
+   100
+  ]
+ },
+ {
+  "name": "Simon",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "He has heard",
+  "popularityByYear": [
+   15,
+   34,
+   43,
+   58,
+   83,
+   100,
+   77,
+   58,
+   50
+  ]
+ },
+ {
+  "name": "Brooks",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "Of the small stream",
+  "popularityByYear": [
+   4,
+   24,
+   32,
+   34,
+   50,
+   59,
+   76,
+   78,
+   100
+  ]
+ },
+ {
+  "name": "Atlas",
+  "gender": "boy",
+  "origin": "Greek",
+  "meaning": "Enduring, the one who bears the heavens",
+  "popularityByYear": [
+   55,
+   41,
+   40,
+   38,
+   42,
+   53,
+   52,
+   56,
+   51
+  ]
+ },
+ {
+  "name": "Wesley",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "From the western meadow",
+  "popularityByYear": [
+   68,
+   82,
+   99,
+   84,
+   60,
+   57,
+   44,
+   19,
+   7
+  ]
+ },
+ {
+  "name": "Leon",
+  "gender": "boy",
+  "origin": "Greek",
+  "meaning": "Lion",
+  "popularityByYear": [
+   17,
+   17,
+   33,
+   44,
+   59,
+   62,
+   72,
+   88,
+   91
+  ]
+ },
+ {
+  "name": "Hugo",
+  "gender": "boy",
+  "origin": "Germanic",
+  "meaning": "Mind, intellect, spirit",
+  "popularityByYear": [
+   4,
+   24,
+   36,
+   38,
+   58,
+   66,
+   75,
+   89,
+   89
+  ]
+ },
+ {
+  "name": "Dominic",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Belonging to the Lord",
+  "popularityByYear": [
+   88,
+   91,
+   79,
+   73,
+   58,
+   44,
+   41,
+   33,
+   18
+  ]
+ },
+ {
+  "name": "Spencer",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "Keeper of provisions, steward",
+  "popularityByYear": [
+   16,
+   20,
+   25,
+   40,
+   50,
+   66,
+   80,
+   90,
+   95
+  ]
+ },
+ {
+  "name": "Xavier",
+  "gender": "boy",
+  "origin": "Basque",
+  "meaning": "New house, bright",
+  "popularityByYear": [
+   46,
+   62,
+   55,
+   62,
+   60,
+   53,
+   57,
+   63,
+   44
+  ]
+ },
+ {
+  "name": "Phoenix",
+  "gender": "unisex",
+  "origin": "Greek",
+  "meaning": "Dark red, the rising firebird",
+  "popularityByYear": [
+   92,
+   91,
+   73,
+   59,
+   57,
+   41,
+   33,
+   22,
+   13
+  ]
+ },
+ {
+  "name": "Dean",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "From the valley",
+  "popularityByYear": [
+   4,
+   13,
+   24,
+   21,
+   23,
+   33,
+   34,
+   71,
+   100
+  ]
+ },
+ {
+  "name": "Bennett",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Blessed",
+  "popularityByYear": [
+   7,
+   34,
+   46,
+   65,
+   85,
+   92,
+   79,
+   54,
+   45
+  ]
+ },
+ {
+  "name": "Emmett",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "Universal, whole",
+  "popularityByYear": [
+   91,
+   88,
+   72,
+   63,
+   53,
+   46,
+   27,
+   24,
+   10
+  ]
+ },
+ {
+  "name": "Cole",
+  "gender": "boy",
+  "origin": "English",
+  "meaning": "Swarthy, coal-black",
+  "popularityByYear": [
+   57,
+   32,
+   43,
+   54,
+   42,
+   61,
+   49,
+   56,
+   48
+  ]
+ },
+ {
+  "name": "Rowan",
+  "gender": "unisex",
+  "origin": "Irish",
+  "meaning": "Little red-haired one, the rowan tree",
+  "popularityByYear": [
+   46,
+   60,
+   43,
+   42,
+   45,
+   42,
+   45,
+   60,
+   55
+  ]
+ },
+ {
+  "name": "Desmond",
+  "gender": "boy",
+  "origin": "Irish",
+  "meaning": "From South Munster",
+  "popularityByYear": [
+   99,
+   84,
+   70,
+   67,
+   54,
+   46,
+   32,
+   22,
+   7
+  ]
+ },
+ {
+  "name": "Malik",
+  "gender": "boy",
+  "origin": "Arabic",
+  "meaning": "King, sovereign",
+  "popularityByYear": [
+   7,
+   16,
+   29,
+   36,
+   49,
+   56,
+   77,
+   85,
+   90
+  ]
+ },
+ {
+  "name": "Omar",
+  "gender": "boy",
+  "origin": "Arabic",
+  "meaning": "Flourishing, long-lived",
+  "popularityByYear": [
+   88,
+   85,
+   70,
+   67,
+   47,
+   44,
+   37,
+   25,
+   10
+  ]
+ },
+ {
+  "name": "Ali",
+  "gender": "boy",
+  "origin": "Arabic",
+  "meaning": "Exalted, noble",
+  "popularityByYear": [
+   12,
+   17,
+   31,
+   41,
+   52,
+   61,
+   68,
+   77,
+   92
+  ]
+ },
+ {
+  "name": "Ibrahim",
+  "gender": "boy",
+  "origin": "Arabic",
+  "meaning": "Father of many, a form of Abraham",
+  "popularityByYear": [
+   14,
+   7,
+   17,
+   23,
+   22,
+   35,
+   41,
+   76,
+   100
+  ]
+ },
+ {
+  "name": "Yusuf",
+  "gender": "boy",
+  "origin": "Arabic",
+  "meaning": "God increases, a form of Joseph",
+  "popularityByYear": [
+   100,
+   86,
+   70,
+   57,
+   48,
+   35,
+   32,
+   25,
+   9
+  ]
+ },
+ {
+  "name": "Hassan",
+  "gender": "boy",
+  "origin": "Arabic",
+  "meaning": "Handsome, good, benefactor",
+  "popularityByYear": [
+   95,
+   91,
+   79,
+   70,
+   67,
+   50,
+   37,
+   36,
+   22
+  ]
+ },
+ {
+  "name": "Amir",
+  "gender": "boy",
+  "origin": "Arabic",
+  "meaning": "Prince, commander",
+  "popularityByYear": [
+   10,
+   15,
+   11,
+   25,
+   32,
+   27,
+   43,
+   69,
+   100
+  ]
+ },
+ {
+  "name": "Ravi",
+  "gender": "boy",
+  "origin": "Sanskrit",
+  "meaning": "Sun",
+  "popularityByYear": [
+   98,
+   78,
+   68,
+   59,
+   47,
+   42,
+   25,
+   15,
+   4
+  ]
+ },
+ {
+  "name": "Arjun",
+  "gender": "boy",
+  "origin": "Sanskrit",
+  "meaning": "Bright, shining, white",
+  "popularityByYear": [
+   12,
+   15,
+   18,
+   20,
+   21,
+   29,
+   35,
+   77,
+   100
+  ]
+ },
+ {
+  "name": "Dev",
+  "gender": "boy",
+  "origin": "Sanskrit",
+  "meaning": "God, divine",
+  "popularityByYear": [
+   43,
+   52,
+   51,
+   60,
+   64,
+   43,
+   42,
+   48,
+   49
+  ]
+ },
+ {
+  "name": "Rohan",
+  "gender": "boy",
+  "origin": "Sanskrit",
+  "meaning": "Ascending, healing",
+  "popularityByYear": [
+   60,
+   73,
+   90,
+   85,
+   63,
+   54,
+   42,
+   30,
+   12
+  ]
+ },
+ {
+  "name": "Kenji",
+  "gender": "boy",
+  "origin": "Japanese",
+  "meaning": "Intelligent, strong, second son",
+  "popularityByYear": [
+   4,
+   22,
+   38,
+   43,
+   62,
+   69,
+   79,
+   96,
+   83
+  ]
+ },
+ {
+  "name": "Hiro",
+  "gender": "boy",
+  "origin": "Japanese",
+  "meaning": "Generous, abundant",
+  "popularityByYear": [
+   4,
+   15,
+   11,
+   30,
+   27,
+   37,
+   36,
+   75,
+   100
+  ]
+ },
+ {
+  "name": "Ren",
+  "gender": "unisex",
+  "origin": "Japanese",
+  "meaning": "Lotus, love",
+  "popularityByYear": [
+   6,
+   23,
+   37,
+   47,
+   54,
+   65,
+   66,
+   89,
+   98
+  ]
+ },
+ {
+  "name": "Wei",
+  "gender": "unisex",
+  "origin": "Chinese",
+  "meaning": "Great, mighty, valiant",
+  "popularityByYear": [
+   100,
+   89,
+   68,
+   63,
+   53,
+   44,
+   31,
+   27,
+   7
+  ]
+ },
+ {
+  "name": "Jin",
+  "gender": "unisex",
+  "origin": "Chinese",
+  "meaning": "Gold, valuable",
+  "popularityByYear": [
+   98,
+   90,
+   73,
+   57,
+   52,
+   39,
+   30,
+   18,
+   8
+  ]
+ },
+ {
+  "name": "Mateus",
+  "gender": "boy",
+  "origin": "Portuguese",
+  "meaning": "Gift of God",
+  "popularityByYear": [
+   41,
+   55,
+   50,
+   58,
+   63,
+   39,
+   38,
+   44,
+   46
+  ]
+ },
+ {
+  "name": "Diego",
+  "gender": "boy",
+  "origin": "Spanish",
+  "meaning": "Supplanter, a form of James",
+  "popularityByYear": [
+   14,
+   6,
+   21,
+   29,
+   29,
+   33,
+   37,
+   66,
+   100
+  ]
+ },
+ {
+  "name": "Santiago",
+  "gender": "boy",
+  "origin": "Spanish",
+  "meaning": "Saint James",
+  "popularityByYear": [
+   92,
+   95,
+   80,
+   73,
+   60,
+   55,
+   33,
+   26,
+   17
+  ]
+ },
+ {
+  "name": "Javier",
+  "gender": "boy",
+  "origin": "Spanish",
+  "meaning": "New house, bright",
+  "popularityByYear": [
+   97,
+   87,
+   80,
+   77,
+   64,
+   50,
+   34,
+   23,
+   23
+  ]
+ },
+ {
+  "name": "Emilio",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Rival, eager",
+  "popularityByYear": [
+   94,
+   85,
+   77,
+   71,
+   53,
+   51,
+   39,
+   24,
+   16
+  ]
+ },
+ {
+  "name": "Lorenzo",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "From Laurentum, crowned with laurel",
+  "popularityByYear": [
+   4,
+   23,
+   37,
+   36,
+   52,
+   70,
+   77,
+   81,
+   96
+  ]
+ },
+ {
+  "name": "Matteo",
+  "gender": "boy",
+  "origin": "Italian",
+  "meaning": "Gift of God",
+  "popularityByYear": [
+   57,
+   53,
+   45,
+   50,
+   46,
+   58,
+   68,
+   48,
+   37
+  ]
+ },
+ {
+  "name": "Giovanni",
+  "gender": "boy",
+  "origin": "Italian",
+  "meaning": "God is gracious",
+  "popularityByYear": [
+   15,
+   18,
+   19,
+   20,
+   34,
+   26,
+   35,
+   77,
+   100
+  ]
+ },
+ {
+  "name": "Luca",
+  "gender": "boy",
+  "origin": "Italian",
+  "meaning": "Bringer of light",
+  "popularityByYear": [
+   96,
+   85,
+   80,
+   71,
+   60,
+   48,
+   38,
+   31,
+   25
+  ]
+ },
+ {
+  "name": "Andre",
+  "gender": "boy",
+  "origin": "French",
+  "meaning": "Manly, brave",
+  "popularityByYear": [
+   90,
+   97,
+   78,
+   76,
+   56,
+   54,
+   36,
+   32,
+   19
+  ]
+ },
+ {
+  "name": "Soren",
+  "gender": "boy",
+  "origin": "Danish",
+  "meaning": "Stern, severe",
+  "popularityByYear": [
+   88,
+   82,
+   77,
+   63,
+   56,
+   48,
+   36,
+   19,
+   9
+  ]
+ },
+ {
+  "name": "Magnus",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Great, mighty",
+  "popularityByYear": [
+   46,
+   43,
+   54,
+   47,
+   46,
+   61,
+   45,
+   56,
+   57
+  ]
+ },
+ {
+  "name": "Finn",
+  "gender": "boy",
+  "origin": "Irish",
+  "meaning": "Fair, white, bright",
+  "popularityByYear": [
+   40,
+   44,
+   61,
+   53,
+   46,
+   54,
+   65,
+   54,
+   51
+  ]
+ },
+ {
+  "name": "Declan",
+  "gender": "boy",
+  "origin": "Irish",
+  "meaning": "Full of goodness",
+  "popularityByYear": [
+   48,
+   51,
+   48,
+   66,
+   43,
+   55,
+   45,
+   65,
+   66
+  ]
+ },
+ {
+  "name": "Cormac",
+  "gender": "boy",
+  "origin": "Irish",
+  "meaning": "Charioteer, son of defilement turned noble",
+  "popularityByYear": [
+   5,
+   24,
+   28,
+   48,
+   45,
+   56,
+   71,
+   89,
+   88
+  ]
+ },
+ {
+  "name": "Niall",
+  "gender": "boy",
+  "origin": "Irish",
+  "meaning": "Champion, passionate",
+  "popularityByYear": [
+   8,
+   26,
+   39,
+   57,
+   79,
+   94,
+   80,
+   64,
+   49
+  ]
+ },
+ {
+  "name": "Ronan",
+  "gender": "boy",
+  "origin": "Irish",
+  "meaning": "Little seal",
+  "popularityByYear": [
+   90,
+   78,
+   75,
+   69,
+   51,
+   43,
+   34,
+   16,
+   10
+  ]
+ },
+ {
+  "name": "Tadhg",
+  "gender": "boy",
+  "origin": "Irish",
+  "meaning": "Poet, philosopher",
+  "popularityByYear": [
+   86,
+   90,
+   83,
+   67,
+   60,
+   47,
+   43,
+   23,
+   27
+  ]
+ },
+ {
+  "name": "Bruno",
+  "gender": "boy",
+  "origin": "Germanic",
+  "meaning": "Brown, armored",
+  "popularityByYear": [
+   11,
+   14,
+   13,
+   17,
+   28,
+   31,
+   40,
+   70,
+   100
+  ]
+ },
+ {
+  "name": "Klaus",
+  "gender": "boy",
+  "origin": "Germanic",
+  "meaning": "Victory of the people",
+  "popularityByYear": [
+   8,
+   19,
+   15,
+   19,
+   27,
+   39,
+   38,
+   67,
+   100
+  ]
+ },
+ {
+  "name": "Mikael",
+  "gender": "boy",
+  "origin": "Scandinavian",
+  "meaning": "Who is like God",
+  "popularityByYear": [
+   10,
+   10,
+   22,
+   20,
+   21,
+   39,
+   41,
+   72,
+   100
+  ]
+ },
+ {
+  "name": "Anders",
+  "gender": "boy",
+  "origin": "Scandinavian",
+  "meaning": "Manly, brave, a form of Andrew",
+  "popularityByYear": [
+   17,
+   22,
+   35,
+   41,
+   58,
+   70,
+   80,
+   81,
+   100
+  ]
+ },
+ {
+  "name": "Olivia",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Olive tree, symbol of peace",
+  "popularityByYear": [
+   91,
+   87,
+   69,
+   65,
+   49,
+   44,
+   36,
+   24,
+   15
+  ]
+ },
+ {
+  "name": "Emma",
+  "gender": "girl",
+  "origin": "Germanic",
+  "meaning": "Whole, universal",
+  "popularityByYear": [
+   52,
+   61,
+   36,
+   45,
+   54,
+   56,
+   47,
+   45,
+   60
+  ]
+ },
+ {
+  "name": "Charlotte",
+  "gender": "girl",
+  "origin": "French",
+  "meaning": "Free woman, petite and feminine",
+  "popularityByYear": [
+   90,
+   89,
+   74,
+   70,
+   50,
+   42,
+   32,
+   27,
+   7
+  ]
+ },
+ {
+  "name": "Amelia",
+  "gender": "girl",
+  "origin": "Germanic",
+  "meaning": "Industrious, hardworking",
+  "popularityByYear": [
+   100,
+   90,
+   73,
+   68,
+   49,
+   45,
+   37,
+   18,
+   15
+  ]
+ },
+ {
+  "name": "Sophia",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Wisdom",
+  "popularityByYear": [
+   4,
+   15,
+   36,
+   37,
+   58,
+   66,
+   77,
+   87,
+   94
+  ]
+ },
+ {
+  "name": "Isabella",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "Pledged to God, devoted",
+  "popularityByYear": [
+   84,
+   95,
+   79,
+   63,
+   57,
+   51,
+   34,
+   30,
+   18
+  ]
+ },
+ {
+  "name": "Ava",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Bird, life, living one",
+  "popularityByYear": [
+   55,
+   56,
+   44,
+   45,
+   40,
+   53,
+   53,
+   52,
+   64
+  ]
+ },
+ {
+  "name": "Mia",
+  "gender": "girl",
+  "origin": "Italian",
+  "meaning": "Mine, beloved",
+  "popularityByYear": [
+   11,
+   12,
+   12,
+   18,
+   21,
+   26,
+   35,
+   73,
+   100
+  ]
+ },
+ {
+  "name": "Evelyn",
+  "gender": "girl",
+  "origin": "English",
+  "meaning": "Wished-for child, desired",
+  "popularityByYear": [
+   17,
+   21,
+   26,
+   40,
+   52,
+   61,
+   76,
+   88,
+   99
+  ]
+ },
+ {
+  "name": "Luna",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "The moon",
+  "popularityByYear": [
+   92,
+   94,
+   84,
+   65,
+   67,
+   49,
+   43,
+   24,
+   26
+  ]
+ },
+ {
+  "name": "Harper",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Harp player, minstrel",
+  "popularityByYear": [
+   5,
+   6,
+   22,
+   21,
+   24,
+   33,
+   38,
+   69,
+   100
+  ]
+ },
+ {
+  "name": "Camila",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Young ceremonial attendant",
+  "popularityByYear": [
+   85,
+   93,
+   83,
+   77,
+   61,
+   44,
+   27,
+   21,
+   7
+  ]
+ },
+ {
+  "name": "Gianna",
+  "gender": "girl",
+  "origin": "Italian",
+  "meaning": "God is gracious",
+  "popularityByYear": [
+   100,
+   90,
+   73,
+   57,
+   55,
+   37,
+   34,
+   23,
+   12
+  ]
+ },
+ {
+  "name": "Abigail",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "My father is joyful",
+  "popularityByYear": [
+   15,
+   18,
+   27,
+   36,
+   57,
+   65,
+   69,
+   78,
+   100
+  ]
+ },
+ {
+  "name": "Ella",
+  "gender": "girl",
+  "origin": "Germanic",
+  "meaning": "All, completely, fairy maiden",
+  "popularityByYear": [
+   92,
+   86,
+   86,
+   76,
+   56,
+   48,
+   45,
+   25,
+   25
+  ]
+ },
+ {
+  "name": "Scarlett",
+  "gender": "girl",
+  "origin": "English",
+  "meaning": "Bright red, a rich cloth",
+  "popularityByYear": [
+   87,
+   96,
+   75,
+   65,
+   61,
+   47,
+   45,
+   25,
+   14
+  ]
+ },
+ {
+  "name": "Aria",
+  "gender": "girl",
+  "origin": "Italian",
+  "meaning": "Air, melody, a beautiful song",
+  "popularityByYear": [
+   35,
+   54,
+   47,
+   41,
+   40,
+   34,
+   60,
+   48,
+   55
+  ]
+ },
+ {
+  "name": "Penelope",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Weaver, faithful and patient",
+  "popularityByYear": [
+   13,
+   11,
+   19,
+   25,
+   22,
+   33,
+   39,
+   69,
+   100
+  ]
+ },
+ {
+  "name": "Layla",
+  "gender": "girl",
+  "origin": "Arabic",
+  "meaning": "Night, dark beauty",
+  "popularityByYear": [
+   7,
+   20,
+   34,
+   34,
+   45,
+   63,
+   79,
+   83,
+   94
+  ]
+ },
+ {
+  "name": "Chloe",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Blooming, young green shoot",
+  "popularityByYear": [
+   57,
+   46,
+   38,
+   52,
+   35,
+   48,
+   60,
+   59,
+   47
+  ]
+ },
+ {
+  "name": "Mila",
+  "gender": "girl",
+  "origin": "Slavic",
+  "meaning": "Gracious, dear, pleasant",
+  "popularityByYear": [
+   87,
+   90,
+   81,
+   72,
+   59,
+   44,
+   45,
+   34,
+   14
+  ]
+ },
+ {
+  "name": "Nora",
+  "gender": "girl",
+  "origin": "Irish",
+  "meaning": "Honor, light",
+  "popularityByYear": [
+   67,
+   43,
+   59,
+   44,
+   54,
+   51,
+   55,
+   39,
+   49
+  ]
+ },
+ {
+  "name": "Hazel",
+  "gender": "girl",
+  "origin": "English",
+  "meaning": "The hazelnut tree",
+  "popularityByYear": [
+   44,
+   66,
+   47,
+   46,
+   34,
+   45,
+   65,
+   54,
+   43
+  ]
+ },
+ {
+  "name": "Ellie",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Bright, shining light",
+  "popularityByYear": [
+   11,
+   18,
+   34,
+   35,
+   51,
+   61,
+   79,
+   87,
+   100
+  ]
+ },
+ {
+  "name": "Lily",
+  "gender": "girl",
+  "origin": "English",
+  "meaning": "The lily flower, purity",
+  "popularityByYear": [
+   5,
+   15,
+   15,
+   21,
+   22,
+   35,
+   39,
+   69,
+   100
+  ]
+ },
+ {
+  "name": "Aurora",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Dawn, the goddess of morning",
+  "popularityByYear": [
+   51,
+   39,
+   53,
+   46,
+   48,
+   50,
+   57,
+   60,
+   59
+  ]
+ },
+ {
+  "name": "Nova",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "New, a brilliant new star",
+  "popularityByYear": [
+   40,
+   65,
+   57,
+   33,
+   50,
+   59,
+   46,
+   33,
+   44
+  ]
+ },
+ {
+  "name": "Stella",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Star",
+  "popularityByYear": [
+   35,
+   64,
+   32,
+   62,
+   43,
+   51,
+   43,
+   46,
+   59
+  ]
+ },
+ {
+  "name": "Maya",
+  "gender": "girl",
+  "origin": "Sanskrit",
+  "meaning": "Illusion, dream; also water in Hebrew",
+  "popularityByYear": [
+   97,
+   83,
+   75,
+   65,
+   65,
+   52,
+   33,
+   33,
+   14
+  ]
+ },
+ {
+  "name": "Zoe",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Life",
+  "popularityByYear": [
+   13,
+   21,
+   34,
+   48,
+   58,
+   69,
+   79,
+   91,
+   87
+  ]
+ },
+ {
+  "name": "Emilia",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Rival, eager, industrious",
+  "popularityByYear": [
+   88,
+   89,
+   74,
+   67,
+   63,
+   53,
+   42,
+   30,
+   21
+  ]
+ },
+ {
+  "name": "Everly",
+  "gender": "girl",
+  "origin": "English",
+  "meaning": "From the wild boar meadow",
+  "popularityByYear": [
+   35,
+   52,
+   32,
+   41,
+   49,
+   47,
+   43,
+   42,
+   38
+  ]
+ },
+ {
+  "name": "Leah",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "Weary; also delicate",
+  "popularityByYear": [
+   38,
+   51,
+   56,
+   55,
+   64,
+   43,
+   56,
+   54,
+   44
+  ]
+ },
+ {
+  "name": "Hannah",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "Grace, favor",
+  "popularityByYear": [
+   14,
+   11,
+   20,
+   22,
+   30,
+   32,
+   42,
+   76,
+   100
+  ]
+ },
+ {
+  "name": "Violet",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "The violet flower, purple",
+  "popularityByYear": [
+   81,
+   88,
+   80,
+   65,
+   63,
+   48,
+   34,
+   28,
+   14
+  ]
+ },
+ {
+  "name": "Aurelia",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Golden, the golden one",
+  "popularityByYear": [
+   81,
+   100,
+   76,
+   66,
+   57,
+   48,
+   33,
+   23,
+   4
+  ]
+ },
+ {
+  "name": "Savannah",
+  "gender": "girl",
+  "origin": "Spanish",
+  "meaning": "Open grassy plain",
+  "popularityByYear": [
+   12,
+   11,
+   14,
+   21,
+   33,
+   28,
+   32,
+   74,
+   100
+  ]
+ },
+ {
+  "name": "Audrey",
+  "gender": "girl",
+  "origin": "English",
+  "meaning": "Noble strength",
+  "popularityByYear": [
+   11,
+   16,
+   38,
+   46,
+   50,
+   61,
+   77,
+   90,
+   98
+  ]
+ },
+ {
+  "name": "Brooklyn",
+  "gender": "girl",
+  "origin": "English",
+  "meaning": "Of the broken land or brook",
+  "popularityByYear": [
+   89,
+   79,
+   70,
+   59,
+   47,
+   43,
+   26,
+   25,
+   15
+  ]
+ },
+ {
+  "name": "Bella",
+  "gender": "girl",
+  "origin": "Italian",
+  "meaning": "Beautiful",
+  "popularityByYear": [
+   48,
+   58,
+   57,
+   61,
+   56,
+   66,
+   59,
+   60,
+   54
+  ]
+ },
+ {
+  "name": "Claire",
+  "gender": "girl",
+  "origin": "French",
+  "meaning": "Clear, bright, famous",
+  "popularityByYear": [
+   42,
+   40,
+   55,
+   52,
+   48,
+   37,
+   48,
+   47,
+   45
+  ]
+ },
+ {
+  "name": "Skylar",
+  "gender": "unisex",
+  "origin": "Dutch",
+  "meaning": "Scholar, sheltering",
+  "popularityByYear": [
+   16,
+   17,
+   25,
+   44,
+   58,
+   69,
+   67,
+   86,
+   97
+  ]
+ },
+ {
+  "name": "Lucy",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Light",
+  "popularityByYear": [
+   90,
+   92,
+   81,
+   75,
+   64,
+   57,
+   33,
+   30,
+   27
+  ]
+ },
+ {
+  "name": "Paisley",
+  "gender": "girl",
+  "origin": "Scottish",
+  "meaning": "Church, a swirling pattern",
+  "popularityByYear": [
+   88,
+   92,
+   80,
+   71,
+   55,
+   43,
+   40,
+   24,
+   25
+  ]
+ },
+ {
+  "name": "Everleigh",
+  "gender": "girl",
+  "origin": "English",
+  "meaning": "From the wild boar meadow",
+  "popularityByYear": [
+   83,
+   98,
+   77,
+   63,
+   54,
+   50,
+   34,
+   22,
+   11
+  ]
+ },
+ {
+  "name": "Anna",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "Grace, favor",
+  "popularityByYear": [
+   88,
+   88,
+   87,
+   67,
+   59,
+   49,
+   45,
+   28,
+   23
+  ]
+ },
+ {
+  "name": "Caroline",
+  "gender": "girl",
+  "origin": "French",
+  "meaning": "Free woman, strong",
+  "popularityByYear": [
+   95,
+   93,
+   83,
+   68,
+   54,
+   48,
+   34,
+   31,
+   23
+  ]
+ },
+ {
+  "name": "Genesis",
+  "gender": "unisex",
+  "origin": "Greek",
+  "meaning": "Origin, beginning",
+  "popularityByYear": [
+   5,
+   17,
+   24,
+   26,
+   35,
+   35,
+   44,
+   68,
+   100
+  ]
+ },
+ {
+  "name": "Kennedy",
+  "gender": "unisex",
+  "origin": "Irish",
+  "meaning": "Helmeted chief",
+  "popularityByYear": [
+   17,
+   18,
+   28,
+   44,
+   56,
+   66,
+   72,
+   79,
+   97
+  ]
+ },
+ {
+  "name": "Maria",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Beloved, of the sea, bitter",
+  "popularityByYear": [
+   48,
+   53,
+   54,
+   45,
+   66,
+   64,
+   48,
+   61,
+   52
+  ]
+ },
+ {
+  "name": "Willow",
+  "gender": "girl",
+  "origin": "English",
+  "meaning": "The willow tree, graceful",
+  "popularityByYear": [
+   93,
+   81,
+   68,
+   59,
+   50,
+   46,
+   31,
+   16,
+   6
+  ]
+ },
+ {
+  "name": "Grace",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Elegance, the grace of God",
+  "popularityByYear": [
+   89,
+   81,
+   79,
+   68,
+   46,
+   42,
+   36,
+   21,
+   16
+  ]
+ },
+ {
+  "name": "Isla",
+  "gender": "girl",
+  "origin": "Scottish",
+  "meaning": "Island, from the river Isla",
+  "popularityByYear": [
+   42,
+   55,
+   64,
+   44,
+   45,
+   38,
+   65,
+   62,
+   47
+  ]
+ },
+ {
+  "name": "Eliana",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "My God has answered",
+  "popularityByYear": [
+   7,
+   11,
+   21,
+   27,
+   24,
+   33,
+   40,
+   70,
+   100
+  ]
+ },
+ {
+  "name": "Naomi",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "Pleasantness, sweetness",
+  "popularityByYear": [
+   46,
+   42,
+   60,
+   42,
+   61,
+   52,
+   59,
+   61,
+   55
+  ]
+ },
+ {
+  "name": "Ivy",
+  "gender": "girl",
+  "origin": "English",
+  "meaning": "The ivy plant, faithfulness",
+  "popularityByYear": [
+   14,
+   9,
+   23,
+   25,
+   23,
+   39,
+   35,
+   66,
+   100
+  ]
+ },
+ {
+  "name": "Eleanor",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Bright, shining one",
+  "popularityByYear": [
+   9,
+   20,
+   12,
+   27,
+   34,
+   34,
+   44,
+   67,
+   100
+  ]
+ },
+ {
+  "name": "Athena",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Goddess of wisdom and war",
+  "popularityByYear": [
+   7,
+   20,
+   38,
+   42,
+   47,
+   69,
+   72,
+   78,
+   100
+  ]
+ },
+ {
+  "name": "Sadie",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "Princess, a form of Sarah",
+  "popularityByYear": [
+   100,
+   82,
+   80,
+   56,
+   51,
+   34,
+   30,
+   21,
+   8
+  ]
+ },
+ {
+  "name": "Ruby",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "The red gemstone",
+  "popularityByYear": [
+   89,
+   82,
+   69,
+   56,
+   50,
+   48,
+   25,
+   26,
+   14
+  ]
+ },
+ {
+  "name": "Josephine",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "God shall add",
+  "popularityByYear": [
+   37,
+   36,
+   57,
+   47,
+   60,
+   54,
+   45,
+   33,
+   42
+  ]
+ },
+ {
+  "name": "Cora",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Maiden, heart",
+  "popularityByYear": [
+   99,
+   86,
+   74,
+   62,
+   46,
+   46,
+   28,
+   16,
+   7
+  ]
+ },
+ {
+  "name": "Iris",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Rainbow, the iris flower",
+  "popularityByYear": [
+   6,
+   19,
+   34,
+   46,
+   54,
+   63,
+   67,
+   78,
+   100
+  ]
+ },
+ {
+  "name": "Adeline",
+  "gender": "girl",
+  "origin": "Germanic",
+  "meaning": "Noble, of the nobility",
+  "popularityByYear": [
+   4,
+   16,
+   19,
+   25,
+   24,
+   37,
+   33,
+   70,
+   100
+  ]
+ },
+ {
+  "name": "Vivian",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Alive, full of life",
+  "popularityByYear": [
+   6,
+   22,
+   30,
+   36,
+   55,
+   66,
+   67,
+   85,
+   93
+  ]
+ },
+ {
+  "name": "Daisy",
+  "gender": "girl",
+  "origin": "English",
+  "meaning": "Day's eye, the daisy flower",
+  "popularityByYear": [
+   11,
+   21,
+   36,
+   42,
+   53,
+   56,
+   72,
+   90,
+   95
+  ]
+ },
+ {
+  "name": "Sarah",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "Princess, noblewoman",
+  "popularityByYear": [
+   8,
+   17,
+   35,
+   34,
+   50,
+   68,
+   67,
+   82,
+   91
+  ]
+ },
+ {
+  "name": "Margaret",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Pearl",
+  "popularityByYear": [
+   64,
+   66,
+   43,
+   37,
+   53,
+   53,
+   65,
+   56,
+   56
+  ]
+ },
+ {
+  "name": "Juniper",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "The juniper tree, evergreen",
+  "popularityByYear": [
+   89,
+   88,
+   78,
+   63,
+   45,
+   38,
+   27,
+   13,
+   15
+  ]
+ },
+ {
+  "name": "Esther",
+  "gender": "girl",
+  "origin": "Persian",
+  "meaning": "Star",
+  "popularityByYear": [
+   93,
+   91,
+   70,
+   64,
+   51,
+   47,
+   32,
+   20,
+   7
+  ]
+ },
+ {
+  "name": "Rose",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "The rose flower",
+  "popularityByYear": [
+   7,
+   18,
+   37,
+   46,
+   45,
+   69,
+   76,
+   82,
+   92
+  ]
+ },
+ {
+  "name": "Freya",
+  "gender": "girl",
+  "origin": "Norse",
+  "meaning": "Noble lady, goddess of love",
+  "popularityByYear": [
+   9,
+   27,
+   30,
+   45,
+   52,
+   70,
+   72,
+   82,
+   90
+  ]
+ },
+ {
+  "name": "Lydia",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "From Lydia, a noblewoman",
+  "popularityByYear": [
+   6,
+   20,
+   23,
+   24,
+   25,
+   38,
+   32,
+   77,
+   100
+  ]
+ },
+ {
+  "name": "Clara",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Bright, clear, famous",
+  "popularityByYear": [
+   12,
+   26,
+   26,
+   42,
+   49,
+   61,
+   67,
+   78,
+   93
+  ]
+ },
+ {
+  "name": "Ada",
+  "gender": "girl",
+  "origin": "Germanic",
+  "meaning": "Noble, nobility",
+  "popularityByYear": [
+   47,
+   61,
+   46,
+   60,
+   49,
+   43,
+   51,
+   48,
+   63
+  ]
+ },
+ {
+  "name": "Diana",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Divine, the moon goddess",
+  "popularityByYear": [
+   13,
+   23,
+   30,
+   39,
+   53,
+   68,
+   77,
+   87,
+   90
+  ]
+ },
+ {
+  "name": "Ophelia",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Help, aid",
+  "popularityByYear": [
+   16,
+   22,
+   34,
+   46,
+   52,
+   56,
+   68,
+   78,
+   91
+  ]
+ },
+ {
+  "name": "Fiona",
+  "gender": "girl",
+  "origin": "Scottish",
+  "meaning": "Fair, white, beautiful",
+  "popularityByYear": [
+   48,
+   49,
+   52,
+   59,
+   47,
+   57,
+   42,
+   43,
+   48
+  ]
+ },
+ {
+  "name": "Beatrice",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "She who brings happiness, blessed",
+  "popularityByYear": [
+   6,
+   25,
+   45,
+   77,
+   90,
+   73,
+   53,
+   30,
+   17
+  ]
+ },
+ {
+  "name": "Aaliyah",
+  "gender": "girl",
+  "origin": "Arabic",
+  "meaning": "Exalted, sublime, high",
+  "popularityByYear": [
+   87,
+   95,
+   77,
+   74,
+   60,
+   46,
+   42,
+   27,
+   24
+  ]
+ },
+ {
+  "name": "Amara",
+  "gender": "girl",
+  "origin": "Igbo",
+  "meaning": "Grace; also eternal in Sanskrit",
+  "popularityByYear": [
+   4,
+   8,
+   24,
+   17,
+   28,
+   28,
+   45,
+   77,
+   100
+  ]
+ },
+ {
+  "name": "Zara",
+  "gender": "girl",
+  "origin": "Arabic",
+  "meaning": "Radiance, blooming flower",
+  "popularityByYear": [
+   13,
+   18,
+   35,
+   35,
+   53,
+   64,
+   70,
+   91,
+   92
+  ]
+ },
+ {
+  "name": "Noor",
+  "gender": "girl",
+  "origin": "Arabic",
+  "meaning": "Light",
+  "popularityByYear": [
+   100,
+   82,
+   74,
+   59,
+   46,
+   37,
+   36,
+   15,
+   6
+  ]
+ },
+ {
+  "name": "Fatima",
+  "gender": "girl",
+  "origin": "Arabic",
+  "meaning": "Captivating, one who weans",
+  "popularityByYear": [
+   6,
+   14,
+   20,
+   21,
+   28,
+   38,
+   39,
+   68,
+   100
+  ]
+ },
+ {
+  "name": "Yasmin",
+  "gender": "girl",
+  "origin": "Persian",
+  "meaning": "Jasmine flower",
+  "popularityByYear": [
+   7,
+   19,
+   35,
+   45,
+   52,
+   64,
+   72,
+   89,
+   94
+  ]
+ },
+ {
+  "name": "Priya",
+  "gender": "girl",
+  "origin": "Sanskrit",
+  "meaning": "Beloved, dear one",
+  "popularityByYear": [
+   85,
+   88,
+   83,
+   64,
+   60,
+   50,
+   43,
+   31,
+   18
+  ]
+ },
+ {
+  "name": "Anaya",
+  "gender": "girl",
+  "origin": "Sanskrit",
+  "meaning": "Without a superior, caring",
+  "popularityByYear": [
+   98,
+   86,
+   68,
+   68,
+   47,
+   40,
+   32,
+   27,
+   16
+  ]
+ },
+ {
+  "name": "Diya",
+  "gender": "girl",
+  "origin": "Sanskrit",
+  "meaning": "Lamp, light",
+  "popularityByYear": [
+   11,
+   15,
+   28,
+   36,
+   47,
+   61,
+   80,
+   88,
+   91
+  ]
+ },
+ {
+  "name": "Sakura",
+  "gender": "girl",
+  "origin": "Japanese",
+  "meaning": "Cherry blossom",
+  "popularityByYear": [
+   17,
+   17,
+   37,
+   35,
+   49,
+   59,
+   76,
+   85,
+   92
+  ]
+ },
+ {
+  "name": "Yuki",
+  "gender": "unisex",
+  "origin": "Japanese",
+  "meaning": "Snow, happiness",
+  "popularityByYear": [
+   97,
+   85,
+   67,
+   64,
+   55,
+   36,
+   33,
+   22,
+   5
+  ]
+ },
+ {
+  "name": "Hana",
+  "gender": "girl",
+  "origin": "Japanese",
+  "meaning": "Flower; also grace in Arabic",
+  "popularityByYear": [
+   100,
+   91,
+   75,
+   56,
+   58,
+   47,
+   24,
+   14,
+   4
+  ]
+ },
+ {
+  "name": "Mei",
+  "gender": "girl",
+  "origin": "Chinese",
+  "meaning": "Beautiful, plum blossom",
+  "popularityByYear": [
+   54,
+   64,
+   53,
+   51,
+   60,
+   59,
+   50,
+   47,
+   50
+  ]
+ },
+ {
+  "name": "Lan",
+  "gender": "girl",
+  "origin": "Chinese",
+  "meaning": "Orchid",
+  "popularityByYear": [
+   47,
+   44,
+   34,
+   51,
+   53,
+   42,
+   52,
+   54,
+   58
+  ]
+ },
+ {
+  "name": "Sofia",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Wisdom",
+  "popularityByYear": [
+   45,
+   60,
+   55,
+   39,
+   45,
+   38,
+   48,
+   36,
+   36
+  ]
+ },
+ {
+  "name": "Lucia",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Light",
+  "popularityByYear": [
+   4,
+   19,
+   25,
+   18,
+   34,
+   31,
+   45,
+   75,
+   100
+  ]
+ },
+ {
+  "name": "Valentina",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Strong, healthy, brave",
+  "popularityByYear": [
+   49,
+   56,
+   78,
+   96,
+   78,
+   61,
+   51,
+   24,
+   10
+  ]
+ },
+ {
+  "name": "Elena",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Bright, shining light",
+  "popularityByYear": [
+   9,
+   21,
+   31,
+   37,
+   48,
+   65,
+   71,
+   77,
+   88
+  ]
+ },
+ {
+  "name": "Carmen",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Song, poem; also garden in Hebrew",
+  "popularityByYear": [
+   12,
+   29,
+   40,
+   49,
+   61,
+   70,
+   79,
+   96,
+   75
+  ]
+ },
+ {
+  "name": "Paloma",
+  "gender": "girl",
+  "origin": "Spanish",
+  "meaning": "Dove, peace",
+  "popularityByYear": [
+   5,
+   27,
+   28,
+   45,
+   50,
+   68,
+   72,
+   82,
+   88
+  ]
+ },
+ {
+  "name": "Bianca",
+  "gender": "girl",
+  "origin": "Italian",
+  "meaning": "White, pure",
+  "popularityByYear": [
+   10,
+   14,
+   14,
+   21,
+   29,
+   30,
+   32,
+   72,
+   100
+  ]
+ },
+ {
+  "name": "Giulia",
+  "gender": "girl",
+  "origin": "Italian",
+  "meaning": "Youthful",
+  "popularityByYear": [
+   5,
+   19,
+   20,
+   26,
+   30,
+   27,
+   33,
+   67,
+   100
+  ]
+ },
+ {
+  "name": "Chiara",
+  "gender": "girl",
+  "origin": "Italian",
+  "meaning": "Bright, clear",
+  "popularityByYear": [
+   11,
+   25,
+   49,
+   56,
+   74,
+   97,
+   79,
+   60,
+   45
+  ]
+ },
+ {
+  "name": "Anais",
+  "gender": "girl",
+  "origin": "French",
+  "meaning": "Grace, favor",
+  "popularityByYear": [
+   4,
+   15,
+   35,
+   39,
+   57,
+   63,
+   74,
+   84,
+   90
+  ]
+ },
+ {
+  "name": "Colette",
+  "gender": "girl",
+  "origin": "French",
+  "meaning": "Victory of the people",
+  "popularityByYear": [
+   85,
+   88,
+   87,
+   72,
+   58,
+   45,
+   39,
+   32,
+   24
+  ]
+ },
+ {
+  "name": "Saoirse",
+  "gender": "girl",
+  "origin": "Irish",
+  "meaning": "Freedom, liberty",
+  "popularityByYear": [
+   11,
+   33,
+   45,
+   62,
+   78,
+   99,
+   80,
+   58,
+   44
+  ]
+ },
+ {
+  "name": "Niamh",
+  "gender": "girl",
+  "origin": "Irish",
+  "meaning": "Bright, radiant",
+  "popularityByYear": [
+   8,
+   23,
+   25,
+   40,
+   54,
+   60,
+   78,
+   91,
+   99
+  ]
+ },
+ {
+  "name": "Aoife",
+  "gender": "girl",
+  "origin": "Irish",
+  "meaning": "Beautiful, radiant",
+  "popularityByYear": [
+   57,
+   49,
+   64,
+   52,
+   54,
+   56,
+   44,
+   62,
+   62
+  ]
+ },
+ {
+  "name": "Maeve",
+  "gender": "girl",
+  "origin": "Irish",
+  "meaning": "She who intoxicates, a great queen",
+  "popularityByYear": [
+   14,
+   16,
+   14,
+   16,
+   30,
+   37,
+   32,
+   69,
+   100
+  ]
+ },
+ {
+  "name": "Sinead",
+  "gender": "girl",
+  "origin": "Irish",
+  "meaning": "God is gracious",
+  "popularityByYear": [
+   7,
+   8,
+   17,
+   27,
+   24,
+   32,
+   39,
+   78,
+   100
+  ]
+ },
+ {
+  "name": "Astrid",
+  "gender": "girl",
+  "origin": "Norse",
+  "meaning": "Divinely beautiful, fair goddess",
+  "popularityByYear": [
+   12,
+   8,
+   19,
+   19,
+   29,
+   31,
+   41,
+   73,
+   100
+  ]
+ },
+ {
+  "name": "Ingrid",
+  "gender": "girl",
+  "origin": "Norse",
+  "meaning": "Beautiful, of the god Ing",
+  "popularityByYear": [
+   4,
+   13,
+   25,
+   24,
+   26,
+   34,
+   36,
+   76,
+   100
+  ]
+ },
+ {
+  "name": "Sigrid",
+  "gender": "girl",
+  "origin": "Norse",
+  "meaning": "Victorious, fair",
+  "popularityByYear": [
+   57,
+   40,
+   47,
+   43,
+   52,
+   51,
+   48,
+   60,
+   48
+  ]
+ },
+ {
+  "name": "Liv",
+  "gender": "girl",
+  "origin": "Norse",
+  "meaning": "Life, protection",
+  "popularityByYear": [
+   17,
+   27,
+   36,
+   45,
+   49,
+   60,
+   67,
+   86,
+   98
+  ]
+ },
+ {
+  "name": "Greta",
+  "gender": "girl",
+  "origin": "Germanic",
+  "meaning": "Pearl",
+  "popularityByYear": [
+   97,
+   89,
+   86,
+   68,
+   65,
+   55,
+   35,
+   27,
+   13
+  ]
+ },
+ {
+  "name": "Heidi",
+  "gender": "girl",
+  "origin": "Germanic",
+  "meaning": "Noble, of noble birth",
+  "popularityByYear": [
+   80,
+   100,
+   82,
+   73,
+   55,
+   50,
+   34,
+   18,
+   6
+  ]
+ },
+ {
+  "name": "Marta",
+  "gender": "girl",
+  "origin": "Aramaic",
+  "meaning": "Lady, mistress of the house",
+  "popularityByYear": [
+   97,
+   91,
+   84,
+   67,
+   55,
+   44,
+   42,
+   34,
+   22
+  ]
+ },
+ {
+  "name": "Nadia",
+  "gender": "girl",
+  "origin": "Slavic",
+  "meaning": "Hope",
+  "popularityByYear": [
+   88,
+   87,
+   80,
+   64,
+   48,
+   44,
+   27,
+   13,
+   4
+  ]
+ },
+ {
+  "name": "Mira",
+  "gender": "girl",
+  "origin": "Slavic",
+  "meaning": "Peace, world; also wonderful in Sanskrit",
+  "popularityByYear": [
+   12,
+   13,
+   12,
+   26,
+   33,
+   28,
+   31,
+   74,
+   100
+  ]
+ },
+ {
+  "name": "Avery",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Ruler of the elves",
+  "popularityByYear": [
+   98,
+   91,
+   80,
+   70,
+   52,
+   41,
+   34,
+   16,
+   15
+  ]
+ },
+ {
+  "name": "Riley",
+  "gender": "unisex",
+  "origin": "Irish",
+  "meaning": "Valiant, courageous",
+  "popularityByYear": [
+   7,
+   30,
+   37,
+   68,
+   83,
+   89,
+   81,
+   63,
+   40
+  ]
+ },
+ {
+  "name": "Jordan",
+  "gender": "unisex",
+  "origin": "Hebrew",
+  "meaning": "To flow down, the river Jordan",
+  "popularityByYear": [
+   97,
+   97,
+   75,
+   69,
+   67,
+   56,
+   35,
+   37,
+   27
+  ]
+ },
+ {
+  "name": "Quinn",
+  "gender": "unisex",
+  "origin": "Irish",
+  "meaning": "Descendant of Conn, wise and chief",
+  "popularityByYear": [
+   15,
+   20,
+   26,
+   48,
+   56,
+   69,
+   80,
+   81,
+   100
+  ]
+ },
+ {
+  "name": "Sage",
+  "gender": "unisex",
+  "origin": "Latin",
+  "meaning": "Wise one, the sage herb",
+  "popularityByYear": [
+   7,
+   22,
+   33,
+   35,
+   59,
+   61,
+   70,
+   84,
+   98
+  ]
+ },
+ {
+  "name": "River",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "A flowing body of water",
+  "popularityByYear": [
+   90,
+   97,
+   75,
+   76,
+   61,
+   50,
+   37,
+   26,
+   25
+  ]
+ },
+ {
+  "name": "Charlie",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Free, a form of Charles",
+  "popularityByYear": [
+   5,
+   24,
+   31,
+   44,
+   49,
+   67,
+   68,
+   77,
+   99
+  ]
+ },
+ {
+  "name": "Finley",
+  "gender": "unisex",
+  "origin": "Scottish",
+  "meaning": "Fair-haired hero",
+  "popularityByYear": [
+   12,
+   34,
+   57,
+   69,
+   90,
+   75,
+   58,
+   34,
+   17
+  ]
+ },
+ {
+  "name": "Emerson",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Son of Emery, brave and powerful",
+  "popularityByYear": [
+   9,
+   11,
+   12,
+   22,
+   31,
+   27,
+   33,
+   68,
+   100
+  ]
+ },
+ {
+  "name": "Hayden",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "From the hay valley",
+  "popularityByYear": [
+   37,
+   58,
+   77,
+   91,
+   78,
+   66,
+   41,
+   25,
+   7
+  ]
+ },
+ {
+  "name": "Parker",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Keeper of the park",
+  "popularityByYear": [
+   87,
+   93,
+   78,
+   74,
+   56,
+   43,
+   43,
+   24,
+   20
+  ]
+ },
+ {
+  "name": "Reese",
+  "gender": "unisex",
+  "origin": "Welsh",
+  "meaning": "Ardor, enthusiasm, fiery",
+  "popularityByYear": [
+   65,
+   83,
+   96,
+   87,
+   73,
+   59,
+   42,
+   29,
+   7
+  ]
+ },
+ {
+  "name": "Remy",
+  "gender": "unisex",
+  "origin": "French",
+  "meaning": "Oarsman; from Rheims",
+  "popularityByYear": [
+   65,
+   45,
+   53,
+   40,
+   48,
+   56,
+   55,
+   55,
+   62
+  ]
+ },
+ {
+  "name": "Eden",
+  "gender": "unisex",
+  "origin": "Hebrew",
+  "meaning": "Delight, paradise",
+  "popularityByYear": [
+   13,
+   16,
+   24,
+   19,
+   33,
+   29,
+   41,
+   78,
+   100
+  ]
+ },
+ {
+  "name": "Sasha",
+  "gender": "unisex",
+  "origin": "Russian",
+  "meaning": "Defender of the people",
+  "popularityByYear": [
+   10,
+   21,
+   35,
+   39,
+   46,
+   70,
+   75,
+   78,
+   88
+  ]
+ },
+ {
+  "name": "Robin",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Bright fame; the robin bird",
+  "popularityByYear": [
+   86,
+   92,
+   81,
+   65,
+   55,
+   48,
+   46,
+   31,
+   20
+  ]
+ },
+ {
+  "name": "Devon",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "From Devon; a poet, defender",
+  "popularityByYear": [
+   14,
+   22,
+   31,
+   35,
+   59,
+   64,
+   73,
+   89,
+   88
+  ]
+ },
+ {
+  "name": "Morgan",
+  "gender": "unisex",
+  "origin": "Welsh",
+  "meaning": "Sea-born, sea circle",
+  "popularityByYear": [
+   9,
+   12,
+   18,
+   25,
+   21,
+   34,
+   38,
+   76,
+   100
+  ]
+ },
+ {
+  "name": "Casey",
+  "gender": "unisex",
+  "origin": "Irish",
+  "meaning": "Brave, vigilant, watchful",
+  "popularityByYear": [
+   94,
+   81,
+   79,
+   56,
+   56,
+   37,
+   33,
+   14,
+   4
+  ]
+ },
+ {
+  "name": "Jamie",
+  "gender": "unisex",
+  "origin": "Hebrew",
+  "meaning": "Supplanter, a form of James",
+  "popularityByYear": [
+   12,
+   7,
+   19,
+   16,
+   35,
+   40,
+   32,
+   80,
+   100
+  ]
+ },
+ {
+  "name": "Rory",
+  "gender": "unisex",
+  "origin": "Irish",
+  "meaning": "Red king",
+  "popularityByYear": [
+   9,
+   15,
+   36,
+   36,
+   57,
+   66,
+   77,
+   87,
+   94
+  ]
+ },
+ {
+  "name": "Blake",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Fair-haired, or dark",
+  "popularityByYear": [
+   10,
+   30,
+   45,
+   59,
+   65,
+   79,
+   89,
+   83,
+   69
+  ]
+ },
+ {
+  "name": "Taylor",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Tailor, one who cuts cloth",
+  "popularityByYear": [
+   93,
+   96,
+   78,
+   64,
+   55,
+   51,
+   39,
+   31,
+   15
+  ]
+ },
+ {
+  "name": "Dakota",
+  "gender": "unisex",
+  "origin": "Sioux",
+  "meaning": "Friend, ally",
+  "popularityByYear": [
+   43,
+   35,
+   55,
+   62,
+   52,
+   56,
+   41,
+   50,
+   39
+  ]
+ },
+ {
+  "name": "Sky",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "The sky, sheltering",
+  "popularityByYear": [
+   88,
+   89,
+   76,
+   62,
+   54,
+   46,
+   38,
+   27,
+   17
+  ]
+ },
+ {
+  "name": "Marlowe",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "From the hill by the lake",
+  "popularityByYear": [
+   6,
+   14,
+   25,
+   43,
+   45,
+   63,
+   75,
+   87,
+   99
+  ]
+ },
+ {
+  "name": "Frankie",
+  "gender": "unisex",
+  "origin": "Latin",
+  "meaning": "Free one, a form of Frances",
+  "popularityByYear": [
+   14,
+   13,
+   30,
+   41,
+   48,
+   64,
+   69,
+   89,
+   100
+  ]
+ },
+ {
+  "name": "Lennon",
+  "gender": "unisex",
+  "origin": "Irish",
+  "meaning": "Dear one, little cloak",
+  "popularityByYear": [
+   11,
+   17,
+   27,
+   47,
+   59,
+   67,
+   75,
+   82,
+   97
+  ]
+ },
+ {
+  "name": "Arden",
+  "gender": "unisex",
+  "origin": "Latin",
+  "meaning": "Great forest, ardent",
+  "popularityByYear": [
+   86,
+   87,
+   87,
+   65,
+   63,
+   51,
+   36,
+   29,
+   17
+  ]
+ },
+ {
+  "name": "Ari",
+  "gender": "unisex",
+  "origin": "Hebrew",
+  "meaning": "Lion; also eagle in Norse",
+  "popularityByYear": [
+   96,
+   86,
+   80,
+   67,
+   59,
+   36,
+   34,
+   23,
+   9
+  ]
+ },
+ {
+  "name": "Noa",
+  "gender": "unisex",
+  "origin": "Hebrew",
+  "meaning": "Movement, motion",
+  "popularityByYear": [
+   83,
+   88,
+   83,
+   73,
+   59,
+   55,
+   41,
+   28,
+   24
+  ]
+ },
+ {
+  "name": "Bodhi",
+  "gender": "unisex",
+  "origin": "Sanskrit",
+  "meaning": "Awakening, enlightenment",
+  "popularityByYear": [
+   4,
+   10,
+   17,
+   18,
+   33,
+   34,
+   38,
+   69,
+   100
+  ]
+ },
+ {
+  "name": "Wren",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Small songbird",
+  "popularityByYear": [
+   100,
+   88,
+   68,
+   68,
+   52,
+   48,
+   24,
+   21,
+   9
+  ]
+ },
+ {
+  "name": "Indigo",
+  "gender": "unisex",
+  "origin": "Greek",
+  "meaning": "Deep blue-violet dye",
+  "popularityByYear": [
+   9,
+   8,
+   17,
+   19,
+   25,
+   29,
+   36,
+   76,
+   100
+  ]
+ },
+ {
+  "name": "Ocean",
+  "gender": "unisex",
+  "origin": "Greek",
+  "meaning": "The vast sea",
+  "popularityByYear": [
+   4,
+   14,
+   22,
+   29,
+   24,
+   26,
+   35,
+   72,
+   100
+  ]
+ },
+ {
+  "name": "True",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Genuine, faithful, loyal",
+  "popularityByYear": [
+   96,
+   84,
+   76,
+   75,
+   65,
+   52,
+   44,
+   33,
+   21
+  ]
+ },
+ {
+  "name": "Lyric",
+  "gender": "unisex",
+  "origin": "Greek",
+  "meaning": "Songlike, words of a song",
+  "popularityByYear": [
+   91,
+   90,
+   80,
+   61,
+   49,
+   48,
+   24,
+   16,
+   17
+  ]
+ },
+ {
+  "name": "Aspen",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "The aspen tree, quaking leaves",
+  "popularityByYear": [
+   99,
+   89,
+   73,
+   70,
+   48,
+   45,
+   33,
+   24,
+   6
+  ]
+ },
+ {
+  "name": "Ellis",
+  "gender": "unisex",
+  "origin": "Welsh",
+  "meaning": "Benevolent, kind, the Lord is my God",
+  "popularityByYear": [
+   9,
+   11,
+   23,
+   20,
+   27,
+   33,
+   39,
+   76,
+   100
+  ]
+ },
+ {
+  "name": "Sutton",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "From the southern town",
+  "popularityByYear": [
+   8,
+   32,
+   59,
+   73,
+   95,
+   67,
+   57,
+   35,
+   10
+  ]
+ },
+ {
+  "name": "Oakley",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "From the oak meadow",
+  "popularityByYear": [
+   42,
+   59,
+   77,
+   88,
+   80,
+   67,
+   40,
+   31,
+   5
+  ]
+ },
+ {
+  "name": "Shiloh",
+  "gender": "unisex",
+  "origin": "Hebrew",
+  "meaning": "Tranquil, peaceful, a gift",
+  "popularityByYear": [
+   11,
+   27,
+   33,
+   43,
+   56,
+   62,
+   70,
+   79,
+   91
+  ]
+ },
+ {
+  "name": "Tatum",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Cheerful bringer of joy",
+  "popularityByYear": [
+   43,
+   63,
+   84,
+   91,
+   78,
+   62,
+   47,
+   30,
+   8
+  ]
+ },
+ {
+  "name": "Briar",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "A thorny shrub, brambles",
+  "popularityByYear": [
+   14,
+   25,
+   38,
+   46,
+   58,
+   65,
+   86,
+   100,
+   80
+  ]
+ },
+ {
+  "name": "Linden",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "The linden or lime tree",
+  "popularityByYear": [
+   99,
+   85,
+   73,
+   58,
+   59,
+   48,
+   32,
+   23,
+   4
+  ]
+ },
+ {
+  "name": "Cleo",
+  "gender": "unisex",
+  "origin": "Greek",
+  "meaning": "Glory, pride, fame",
+  "popularityByYear": [
+   96,
+   96,
+   74,
+   76,
+   63,
+   43,
+   45,
+   23,
+   19
+  ]
+ },
+ {
+  "name": "Bellamy",
+  "gender": "unisex",
+  "origin": "French",
+  "meaning": "Good friend, fine companion",
+  "popularityByYear": [
+   89,
+   88,
+   68,
+   56,
+   48,
+   42,
+   31,
+   18,
+   4
+  ]
+ },
+ {
+  "name": "Sloane",
+  "gender": "unisex",
+  "origin": "Irish",
+  "meaning": "Warrior, raider",
+  "popularityByYear": [
+   93,
+   90,
+   73,
+   63,
+   61,
+   51,
+   39,
+   23,
+   13
+  ]
+ },
+ {
+  "name": "Teagan",
+  "gender": "unisex",
+  "origin": "Irish",
+  "meaning": "Little poet, attractive",
+  "popularityByYear": [
+   91,
+   87,
+   73,
+   71,
+   66,
+   54,
+   43,
+   29,
+   25
+  ]
+ },
+ {
+  "name": "Theo",
+  "gender": "boy",
+  "origin": "Greek",
+  "meaning": "Gift of God",
+  "popularityByYear": [
+   65,
+   83,
+   88,
+   74,
+   72,
+   53,
+   32,
+   22,
+   12
+  ]
+ },
+ {
+  "name": "Jasper",
+  "gender": "boy",
+  "origin": "Persian",
+  "meaning": "Treasurer; bringer of treasure",
+  "popularityByYear": [
+   6,
+   13,
+   25,
+   40,
+   51,
+   57,
+   69,
+   78,
+   96
+  ]
+ },
+ {
+  "name": "August",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Great, venerable, majestic",
+  "popularityByYear": [
+   14,
+   15,
+   12,
+   19,
+   31,
+   36,
+   40,
+   66,
+   100
+  ]
+ },
+ {
+  "name": "Rhys",
+  "gender": "boy",
+  "origin": "Welsh",
+  "meaning": "Ardor, enthusiasm",
+  "popularityByYear": [
+   83,
+   86,
+   73,
+   71,
+   66,
+   45,
+   37,
+   29,
+   15
+  ]
+ },
+ {
+  "name": "Owen",
+  "gender": "boy",
+  "origin": "Welsh",
+  "meaning": "Young warrior, well-born",
+  "popularityByYear": [
+   92,
+   87,
+   81,
+   76,
+   63,
+   45,
+   34,
+   32,
+   22
+  ]
+ },
+ {
+  "name": "Gideon",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Mighty warrior, feller of trees",
+  "popularityByYear": [
+   43,
+   59,
+   42,
+   41,
+   44,
+   60,
+   56,
+   48,
+   63
+  ]
+ },
+ {
+  "name": "Reuben",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Behold, a son",
+  "popularityByYear": [
+   5,
+   9,
+   23,
+   18,
+   32,
+   38,
+   34,
+   67,
+   100
+  ]
+ },
+ {
+  "name": "Frederick",
+  "gender": "boy",
+  "origin": "Germanic",
+  "meaning": "Peaceful ruler",
+  "popularityByYear": [
+   10,
+   27,
+   29,
+   45,
+   52,
+   60,
+   75,
+   78,
+   89
+  ]
+ },
+ {
+  "name": "Victor",
+  "gender": "boy",
+  "origin": "Latin",
+  "meaning": "Conqueror, winner",
+  "popularityByYear": [
+   85,
+   95,
+   78,
+   65,
+   67,
+   50,
+   39,
+   23,
+   23
+  ]
+ },
+ {
+  "name": "Rafael",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "God has healed",
+  "popularityByYear": [
+   12,
+   25,
+   38,
+   47,
+   50,
+   61,
+   77,
+   82,
+   97
+  ]
+ },
+ {
+  "name": "Emanuel",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "God is with us",
+  "popularityByYear": [
+   4,
+   19,
+   12,
+   20,
+   28,
+   37,
+   41,
+   67,
+   100
+  ]
+ },
+ {
+  "name": "Cyrus",
+  "gender": "boy",
+  "origin": "Persian",
+  "meaning": "Sun, throne; far-sighted",
+  "popularityByYear": [
+   60,
+   65,
+   49,
+   59,
+   57,
+   38,
+   44,
+   51,
+   46
+  ]
+ },
+ {
+  "name": "Darius",
+  "gender": "boy",
+  "origin": "Persian",
+  "meaning": "He who holds firm the good",
+  "popularityByYear": [
+   90,
+   88,
+   69,
+   62,
+   51,
+   48,
+   37,
+   20,
+   4
+  ]
+ },
+ {
+  "name": "Nikolai",
+  "gender": "boy",
+  "origin": "Greek",
+  "meaning": "Victory of the people",
+  "popularityByYear": [
+   94,
+   85,
+   70,
+   70,
+   47,
+   47,
+   30,
+   26,
+   11
+  ]
+ },
+ {
+  "name": "Stefan",
+  "gender": "boy",
+  "origin": "Greek",
+  "meaning": "Crown, garland",
+  "popularityByYear": [
+   8,
+   27,
+   45,
+   51,
+   62,
+   75,
+   89,
+   75,
+   61
+  ]
+ },
+ {
+  "name": "Mathias",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "Gift of God",
+  "popularityByYear": [
+   88,
+   84,
+   79,
+   65,
+   47,
+   38,
+   28,
+   13,
+   5
+  ]
+ },
+ {
+  "name": "Kofi",
+  "gender": "boy",
+  "origin": "Akan",
+  "meaning": "Born on a Friday",
+  "popularityByYear": [
+   6,
+   15,
+   20,
+   21,
+   23,
+   37,
+   44,
+   74,
+   100
+  ]
+ },
+ {
+  "name": "Kwame",
+  "gender": "boy",
+  "origin": "Akan",
+  "meaning": "Born on a Saturday",
+  "popularityByYear": [
+   59,
+   68,
+   64,
+   54,
+   49,
+   44,
+   56,
+   43,
+   38
+  ]
+ },
+ {
+  "name": "Tariq",
+  "gender": "boy",
+  "origin": "Arabic",
+  "meaning": "Morning star, night visitor",
+  "popularityByYear": [
+   90,
+   78,
+   71,
+   65,
+   45,
+   35,
+   24,
+   22,
+   5
+  ]
+ },
+ {
+  "name": "Zayd",
+  "gender": "boy",
+  "origin": "Arabic",
+  "meaning": "Growth, abundance",
+  "popularityByYear": [
+   88,
+   92,
+   73,
+   64,
+   66,
+   46,
+   42,
+   29,
+   15
+  ]
+ },
+ {
+  "name": "Idris",
+  "gender": "boy",
+  "origin": "Arabic",
+  "meaning": "Interpreter, studious",
+  "popularityByYear": [
+   51,
+   49,
+   35,
+   53,
+   53,
+   41,
+   36,
+   59,
+   58
+  ]
+ },
+ {
+  "name": "Kiran",
+  "gender": "unisex",
+  "origin": "Sanskrit",
+  "meaning": "Ray of light",
+  "popularityByYear": [
+   9,
+   6,
+   14,
+   24,
+   26,
+   28,
+   42,
+   74,
+   100
+  ]
+ },
+ {
+  "name": "Aarav",
+  "gender": "boy",
+  "origin": "Sanskrit",
+  "meaning": "Peaceful, calm melody",
+  "popularityByYear": [
+   7,
+   23,
+   37,
+   35,
+   56,
+   69,
+   70,
+   85,
+   93
+  ]
+ },
+ {
+  "name": "Vihaan",
+  "gender": "boy",
+  "origin": "Sanskrit",
+  "meaning": "Dawn, the first ray",
+  "popularityByYear": [
+   100,
+   80,
+   74,
+   64,
+   57,
+   42,
+   29,
+   23,
+   6
+  ]
+ },
+ {
+  "name": "Haruto",
+  "gender": "boy",
+  "origin": "Japanese",
+  "meaning": "Soaring, sunlight, far-reaching",
+  "popularityByYear": [
+   95,
+   86,
+   86,
+   69,
+   64,
+   55,
+   36,
+   26,
+   21
+  ]
+ },
+ {
+  "name": "Sora",
+  "gender": "unisex",
+  "origin": "Japanese",
+  "meaning": "Sky",
+  "popularityByYear": [
+   12,
+   6,
+   11,
+   28,
+   25,
+   33,
+   35,
+   69,
+   100
+  ]
+ },
+ {
+  "name": "Tobiah",
+  "gender": "boy",
+  "origin": "Hebrew",
+  "meaning": "God is good",
+  "popularityByYear": [
+   90,
+   95,
+   87,
+   74,
+   58,
+   48,
+   34,
+   26,
+   14
+  ]
+ },
+ {
+  "name": "Enzo",
+  "gender": "boy",
+  "origin": "Italian",
+  "meaning": "Ruler of the home; estate",
+  "popularityByYear": [
+   91,
+   82,
+   69,
+   63,
+   54,
+   48,
+   33,
+   26,
+   4
+  ]
+ },
+ {
+  "name": "Matias",
+  "gender": "boy",
+  "origin": "Spanish",
+  "meaning": "Gift of God",
+  "popularityByYear": [
+   13,
+   16,
+   12,
+   29,
+   31,
+   27,
+   45,
+   72,
+   100
+  ]
+ },
+ {
+  "name": "Thiago",
+  "gender": "boy",
+  "origin": "Portuguese",
+  "meaning": "Supplanter, a form of James",
+  "popularityByYear": [
+   60,
+   42,
+   56,
+   45,
+   60,
+   51,
+   55,
+   56,
+   38
+  ]
+ },
+ {
+  "name": "Eamon",
+  "gender": "boy",
+  "origin": "Irish",
+  "meaning": "Wealthy protector",
+  "popularityByYear": [
+   12,
+   27,
+   31,
+   46,
+   55,
+   58,
+   75,
+   90,
+   97
+  ]
+ },
+ {
+  "name": "Lachlan",
+  "gender": "boy",
+  "origin": "Scottish",
+  "meaning": "From the land of lakes",
+  "popularityByYear": [
+   4,
+   14,
+   19,
+   18,
+   21,
+   26,
+   43,
+   77,
+   100
+  ]
+ },
+ {
+  "name": "Callum",
+  "gender": "boy",
+  "origin": "Scottish",
+  "meaning": "Dove, peace",
+  "popularityByYear": [
+   14,
+   27,
+   26,
+   40,
+   58,
+   59,
+   79,
+   90,
+   91
+  ]
+ },
+ {
+  "name": "Hamish",
+  "gender": "boy",
+  "origin": "Scottish",
+  "meaning": "Supplanter, a form of James",
+  "popularityByYear": [
+   6,
+   17,
+   32,
+   37,
+   57,
+   65,
+   71,
+   81,
+   96
+  ]
+ },
+ {
+  "name": "Bjorn",
+  "gender": "boy",
+  "origin": "Norse",
+  "meaning": "Bear",
+  "popularityByYear": [
+   4,
+   20,
+   22,
+   21,
+   35,
+   33,
+   41,
+   75,
+   100
+  ]
+ },
+ {
+  "name": "Leif",
+  "gender": "boy",
+  "origin": "Norse",
+  "meaning": "Heir, descendant",
+  "popularityByYear": [
+   96,
+   97,
+   87,
+   71,
+   55,
+   51,
+   35,
+   31,
+   21
+  ]
+ },
+ {
+  "name": "Otto",
+  "gender": "boy",
+  "origin": "Germanic",
+  "meaning": "Wealth, prosperity",
+  "popularityByYear": [
+   15,
+   15,
+   33,
+   34,
+   57,
+   68,
+   68,
+   79,
+   90
+  ]
+ },
+ {
+  "name": "Emrys",
+  "gender": "boy",
+  "origin": "Welsh",
+  "meaning": "Immortal",
+  "popularityByYear": [
+   9,
+   6,
+   16,
+   26,
+   29,
+   34,
+   39,
+   73,
+   100
+  ]
+ },
+ {
+  "name": "Caspian",
+  "gender": "boy",
+  "origin": "Literary",
+  "meaning": "Of the Caspian Sea",
+  "popularityByYear": [
+   4,
+   16,
+   27,
+   38,
+   45,
+   68,
+   67,
+   85,
+   95
+  ]
+ },
+ {
+  "name": "Juliet",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Youthful, downy",
+  "popularityByYear": [
+   95,
+   97,
+   87,
+   64,
+   60,
+   48,
+   42,
+   31,
+   22
+  ]
+ },
+ {
+  "name": "Eloise",
+  "gender": "girl",
+  "origin": "French",
+  "meaning": "Healthy, wide, famous warrior",
+  "popularityByYear": [
+   94,
+   87,
+   80,
+   71,
+   61,
+   55,
+   40,
+   31,
+   16
+  ]
+ },
+ {
+  "name": "Genevieve",
+  "gender": "girl",
+  "origin": "French",
+  "meaning": "Woman of the family, tribe woman",
+  "popularityByYear": [
+   53,
+   62,
+   50,
+   47,
+   45,
+   50,
+   42,
+   55,
+   45
+  ]
+ },
+ {
+  "name": "Seraphina",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "Fiery, burning, ardent",
+  "popularityByYear": [
+   100,
+   78,
+   80,
+   68,
+   47,
+   45,
+   34,
+   23,
+   8
+  ]
+ },
+ {
+  "name": "Celeste",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Heavenly, of the sky",
+  "popularityByYear": [
+   100,
+   79,
+   73,
+   59,
+   56,
+   35,
+   30,
+   27,
+   10
+  ]
+ },
+ {
+  "name": "Marigold",
+  "gender": "girl",
+  "origin": "English",
+  "meaning": "The golden marigold flower",
+  "popularityByYear": [
+   90,
+   88,
+   72,
+   64,
+   51,
+   39,
+   30,
+   16,
+   8
+  ]
+ },
+ {
+  "name": "Wilhelmina",
+  "gender": "girl",
+  "origin": "Germanic",
+  "meaning": "Resolute protector",
+  "popularityByYear": [
+   86,
+   93,
+   75,
+   68,
+   59,
+   46,
+   34,
+   26,
+   4
+  ]
+ },
+ {
+  "name": "Tabitha",
+  "gender": "girl",
+  "origin": "Aramaic",
+  "meaning": "Gazelle, graceful",
+  "popularityByYear": [
+   9,
+   15,
+   15,
+   24,
+   22,
+   27,
+   45,
+   78,
+   100
+  ]
+ },
+ {
+  "name": "Susanna",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "Lily, graceful",
+  "popularityByYear": [
+   7,
+   17,
+   24,
+   48,
+   57,
+   58,
+   70,
+   89,
+   90
+  ]
+ },
+ {
+  "name": "Miriam",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "Wished-for child; of the sea",
+  "popularityByYear": [
+   7,
+   8,
+   19,
+   30,
+   29,
+   35,
+   38,
+   77,
+   100
+  ]
+ },
+ {
+  "name": "Delilah",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "Delicate, languishing",
+  "popularityByYear": [
+   4,
+   25,
+   35,
+   36,
+   51,
+   70,
+   67,
+   81,
+   88
+  ]
+ },
+ {
+  "name": "Talia",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "Dew from God; also blooming in Greek",
+  "popularityByYear": [
+   40,
+   63,
+   39,
+   52,
+   41,
+   36,
+   54,
+   48,
+   35
+  ]
+ },
+ {
+  "name": "Rivka",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "To bind, captivating",
+  "popularityByYear": [
+   84,
+   85,
+   77,
+   63,
+   55,
+   46,
+   47,
+   27,
+   23
+  ]
+ },
+ {
+  "name": "Yael",
+  "gender": "girl",
+  "origin": "Hebrew",
+  "meaning": "Mountain goat, to ascend",
+  "popularityByYear": [
+   15,
+   16,
+   28,
+   41,
+   53,
+   66,
+   68,
+   81,
+   93
+  ]
+ },
+ {
+  "name": "Zahra",
+  "gender": "girl",
+  "origin": "Arabic",
+  "meaning": "Flower, radiant, bright",
+  "popularityByYear": [
+   4,
+   13,
+   24,
+   45,
+   53,
+   64,
+   69,
+   85,
+   95
+  ]
+ },
+ {
+  "name": "Soraya",
+  "gender": "girl",
+  "origin": "Persian",
+  "meaning": "Bright star, the Pleiades",
+  "popularityByYear": [
+   89,
+   87,
+   79,
+   66,
+   51,
+   44,
+   31,
+   21,
+   16
+  ]
+ },
+ {
+  "name": "Leila",
+  "gender": "girl",
+  "origin": "Persian",
+  "meaning": "Night, dark beauty",
+  "popularityByYear": [
+   5,
+   17,
+   14,
+   19,
+   26,
+   29,
+   44,
+   80,
+   100
+  ]
+ },
+ {
+  "name": "Anika",
+  "gender": "girl",
+  "origin": "Sanskrit",
+  "meaning": "Grace, sweet-faced",
+  "popularityByYear": [
+   48,
+   45,
+   35,
+   43,
+   68,
+   45,
+   36,
+   43,
+   56
+  ]
+ },
+ {
+  "name": "Ishani",
+  "gender": "girl",
+  "origin": "Sanskrit",
+  "meaning": "Goddess, ruler",
+  "popularityByYear": [
+   92,
+   86,
+   84,
+   67,
+   53,
+   50,
+   35,
+   25,
+   17
+  ]
+ },
+ {
+  "name": "Kavya",
+  "gender": "girl",
+  "origin": "Sanskrit",
+  "meaning": "Poetry, poem",
+  "popularityByYear": [
+   5,
+   11,
+   16,
+   24,
+   26,
+   29,
+   31,
+   80,
+   100
+  ]
+ },
+ {
+  "name": "Aiko",
+  "gender": "girl",
+  "origin": "Japanese",
+  "meaning": "Beloved child",
+  "popularityByYear": [
+   90,
+   77,
+   71,
+   62,
+   46,
+   41,
+   28,
+   21,
+   13
+  ]
+ },
+ {
+  "name": "Emi",
+  "gender": "girl",
+  "origin": "Japanese",
+  "meaning": "Beautiful blessing, smile",
+  "popularityByYear": [
+   96,
+   89,
+   66,
+   57,
+   49,
+   47,
+   25,
+   15,
+   9
+  ]
+ },
+ {
+  "name": "Lien",
+  "gender": "girl",
+  "origin": "Chinese",
+  "meaning": "Lotus, graceful",
+  "popularityByYear": [
+   89,
+   83,
+   77,
+   67,
+   63,
+   46,
+   34,
+   32,
+   21
+  ]
+ },
+ {
+  "name": "Xiu",
+  "gender": "girl",
+  "origin": "Chinese",
+  "meaning": "Elegant, beautiful, refined",
+  "popularityByYear": [
+   100,
+   82,
+   77,
+   63,
+   47,
+   38,
+   35,
+   22,
+   13
+  ]
+ },
+ {
+  "name": "Catalina",
+  "gender": "girl",
+  "origin": "Spanish",
+  "meaning": "Pure, a form of Catherine",
+  "popularityByYear": [
+   100,
+   90,
+   77,
+   70,
+   53,
+   44,
+   30,
+   24,
+   14
+  ]
+ },
+ {
+  "name": "Renata",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Reborn",
+  "popularityByYear": [
+   97,
+   91,
+   85,
+   71,
+   62,
+   56,
+   46,
+   35,
+   13
+  ]
+ },
+ {
+  "name": "Allegra",
+  "gender": "girl",
+  "origin": "Italian",
+  "meaning": "Joyful, lively",
+  "popularityByYear": [
+   33,
+   34,
+   56,
+   40,
+   53,
+   42,
+   41,
+   58,
+   45
+  ]
+ },
+ {
+  "name": "Serena",
+  "gender": "girl",
+  "origin": "Latin",
+  "meaning": "Calm, serene, tranquil",
+  "popularityByYear": [
+   95,
+   89,
+   67,
+   67,
+   59,
+   42,
+   38,
+   21,
+   4
+  ]
+ },
+ {
+  "name": "Marguerite",
+  "gender": "girl",
+  "origin": "French",
+  "meaning": "Pearl; the daisy flower",
+  "popularityByYear": [
+   44,
+   61,
+   51,
+   46,
+   42,
+   66,
+   40,
+   64,
+   52
+  ]
+ },
+ {
+  "name": "Bridget",
+  "gender": "girl",
+  "origin": "Irish",
+  "meaning": "Strength, exalted one",
+  "popularityByYear": [
+   8,
+   20,
+   21,
+   20,
+   33,
+   26,
+   40,
+   76,
+   100
+  ]
+ },
+ {
+  "name": "Orla",
+  "gender": "girl",
+  "origin": "Irish",
+  "meaning": "Golden princess",
+  "popularityByYear": [
+   97,
+   79,
+   71,
+   60,
+   55,
+   45,
+   35,
+   17,
+   12
+  ]
+ },
+ {
+  "name": "Roisin",
+  "gender": "girl",
+  "origin": "Irish",
+  "meaning": "Little rose",
+  "popularityByYear": [
+   83,
+   90,
+   73,
+   70,
+   57,
+   53,
+   34,
+   34,
+   16
+  ]
+ },
+ {
+  "name": "Elspeth",
+  "gender": "girl",
+  "origin": "Scottish",
+  "meaning": "Chosen by God, a form of Elizabeth",
+  "popularityByYear": [
+   51,
+   51,
+   52,
+   57,
+   48,
+   51,
+   41,
+   46,
+   47
+  ]
+ },
+ {
+  "name": "Solveig",
+  "gender": "girl",
+  "origin": "Norse",
+  "meaning": "Strength of the sun, healthy",
+  "popularityByYear": [
+   10,
+   17,
+   30,
+   37,
+   59,
+   70,
+   69,
+   78,
+   97
+  ]
+ },
+ {
+  "name": "Annika",
+  "gender": "girl",
+  "origin": "Scandinavian",
+  "meaning": "Grace, favor",
+  "popularityByYear": [
+   14,
+   21,
+   28,
+   39,
+   47,
+   65,
+   79,
+   87,
+   96
+  ]
+ },
+ {
+  "name": "Linnea",
+  "gender": "girl",
+  "origin": "Scandinavian",
+  "meaning": "The twinflower, lime tree",
+  "popularityByYear": [
+   86,
+   93,
+   78,
+   70,
+   65,
+   53,
+   34,
+   21,
+   4
+  ]
+ },
+ {
+  "name": "Helga",
+  "gender": "girl",
+  "origin": "Norse",
+  "meaning": "Holy, blessed, prosperous",
+  "popularityByYear": [
+   95,
+   87,
+   73,
+   62,
+   49,
+   45,
+   26,
+   19,
+   8
+  ]
+ },
+ {
+  "name": "Petra",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Rock, stone",
+  "popularityByYear": [
+   4,
+   19,
+   16,
+   16,
+   26,
+   38,
+   36,
+   79,
+   100
+  ]
+ },
+ {
+  "name": "Thea",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Goddess, divine",
+  "popularityByYear": [
+   14,
+   13,
+   38,
+   45,
+   49,
+   60,
+   71,
+   78,
+   94
+  ]
+ },
+ {
+  "name": "Selene",
+  "gender": "girl",
+  "origin": "Greek",
+  "meaning": "Moon, the moon goddess",
+  "popularityByYear": [
+   6,
+   20,
+   17,
+   28,
+   25,
+   39,
+   31,
+   70,
+   100
+  ]
+ },
+ {
+  "name": "Sawyer",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Woodcutter, one who saws",
+  "popularityByYear": [
+   13,
+   27,
+   26,
+   37,
+   49,
+   62,
+   74,
+   82,
+   91
+  ]
+ },
+ {
+  "name": "Rylan",
+  "gender": "unisex",
+  "origin": "Irish",
+  "meaning": "Island meadow, little king",
+  "popularityByYear": [
+   17,
+   17,
+   43,
+   57,
+   69,
+   79,
+   100,
+   87,
+   67
+  ]
+ },
+ {
+  "name": "Hollis",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Dweller by the holly trees",
+  "popularityByYear": [
+   94,
+   84,
+   73,
+   77,
+   64,
+   49,
+   40,
+   32,
+   25
+  ]
+ },
+ {
+  "name": "Auden",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Old friend",
+  "popularityByYear": [
+   95,
+   77,
+   80,
+   70,
+   53,
+   36,
+   26,
+   20,
+   9
+  ]
+ },
+ {
+  "name": "Lane",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "A small roadway or path",
+  "popularityByYear": [
+   7,
+   28,
+   56,
+   77,
+   98,
+   70,
+   51,
+   34,
+   6
+  ]
+ },
+ {
+  "name": "Stevie",
+  "gender": "unisex",
+  "origin": "Greek",
+  "meaning": "Crown, garland",
+  "popularityByYear": [
+   11,
+   25,
+   33,
+   40,
+   53,
+   73,
+   77,
+   89,
+   78
+  ]
+ },
+ {
+  "name": "Vesper",
+  "gender": "unisex",
+  "origin": "Latin",
+  "meaning": "Evening star",
+  "popularityByYear": [
+   91,
+   86,
+   80,
+   77,
+   58,
+   55,
+   40,
+   29,
+   15
+  ]
+ },
+ {
+  "name": "Onyx",
+  "gender": "unisex",
+  "origin": "Greek",
+  "meaning": "The black gemstone",
+  "popularityByYear": [
+   86,
+   84,
+   75,
+   68,
+   61,
+   44,
+   38,
+   26,
+   18
+  ]
+ },
+ {
+  "name": "Hartley",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "From the stag meadow",
+  "popularityByYear": [
+   51,
+   54,
+   82,
+   100,
+   77,
+   60,
+   43,
+   31,
+   11
+  ]
+ },
+ {
+  "name": "Marin",
+  "gender": "unisex",
+  "origin": "Latin",
+  "meaning": "Of the sea",
+  "popularityByYear": [
+   92,
+   82,
+   78,
+   56,
+   52,
+   38,
+   33,
+   18,
+   5
+  ]
+ },
+ {
+  "name": "Sol",
+  "gender": "unisex",
+  "origin": "Latin",
+  "meaning": "Sun",
+  "popularityByYear": [
+   57,
+   38,
+   53,
+   44,
+   53,
+   51,
+   53,
+   33,
+   38
+  ]
+ },
+ {
+  "name": "Wilder",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Untamed, of the wilderness",
+  "popularityByYear": [
+   56,
+   32,
+   57,
+   60,
+   52,
+   50,
+   37,
+   37,
+   57
+  ]
+ },
+ {
+  "name": "Story",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "A tale, a narrative",
+  "popularityByYear": [
+   4,
+   21,
+   36,
+   34,
+   45,
+   68,
+   68,
+   80,
+   97
+  ]
+ },
+ {
+  "name": "Lumi",
+  "gender": "unisex",
+  "origin": "Finnish",
+  "meaning": "Snow",
+  "popularityByYear": [
+   5,
+   23,
+   28,
+   42,
+   55,
+   62,
+   77,
+   89,
+   89
+  ]
+ },
+ {
+  "name": "Nima",
+  "gender": "unisex",
+  "origin": "Persian",
+  "meaning": "Just, fair; also gift in Tibetan",
+  "popularityByYear": [
+   7,
+   21,
+   33,
+   37,
+   51,
+   60,
+   69,
+   89,
+   97
+  ]
+ },
+ {
+  "name": "Bao",
+  "gender": "unisex",
+  "origin": "Chinese",
+  "meaning": "Treasure, precious",
+  "popularityByYear": [
+   11,
+   17,
+   31,
+   38,
+   50,
+   66,
+   79,
+   91,
+   91
+  ]
+ },
+ {
+  "name": "Sani",
+  "gender": "unisex",
+  "origin": "Navajo",
+  "meaning": "The old one, wise",
+  "popularityByYear": [
+   4,
+   14,
+   14,
+   16,
+   27,
+   37,
+   41,
+   70,
+   100
+  ]
+ },
+ {
+  "name": "Itzel",
+  "gender": "girl",
+  "origin": "Mayan",
+  "meaning": "Rainbow lady, the moon goddess",
+  "popularityByYear": [
+   10,
+   27,
+   34,
+   44,
+   51,
+   57,
+   70,
+   80,
+   98
+  ]
+ },
+ {
+  "name": "Amani",
+  "gender": "unisex",
+  "origin": "Swahili",
+  "meaning": "Peace; aspirations in Arabic",
+  "popularityByYear": [
+   4,
+   13,
+   11,
+   27,
+   26,
+   37,
+   37,
+   71,
+   100
+  ]
+ },
+ {
+  "name": "Zuri",
+  "gender": "unisex",
+  "origin": "Swahili",
+  "meaning": "Beautiful, good",
+  "popularityByYear": [
+   4,
+   18,
+   15,
+   27,
+   34,
+   34,
+   32,
+   69,
+   100
+  ]
+ },
+ {
+  "name": "Imani",
+  "gender": "unisex",
+  "origin": "Swahili",
+  "meaning": "Faith",
+  "popularityByYear": [
+   100,
+   90,
+   69,
+   59,
+   52,
+   37,
+   28,
+   25,
+   17
+  ]
+ },
+ {
+  "name": "Nuri",
+  "gender": "unisex",
+  "origin": "Arabic",
+  "meaning": "My light, radiance",
+  "popularityByYear": [
+   84,
+   95,
+   84,
+   65,
+   65,
+   42,
+   34,
+   21,
+   17
+  ]
+ },
+ {
+  "name": "Eluney",
+  "gender": "unisex",
+  "origin": "Mapuche",
+  "meaning": "Gift",
+  "popularityByYear": [
+   52,
+   43,
+   37,
+   52,
+   44,
+   53,
+   42,
+   59,
+   67
+  ]
+ },
+ {
+  "name": "Wynn",
+  "gender": "unisex",
+  "origin": "Welsh",
+  "meaning": "Fair, blessed, white",
+  "popularityByYear": [
+   76,
+   100,
+   77,
+   68,
+   54,
+   41,
+   37,
+   29,
+   11
+  ]
+ },
+ {
+  "name": "Reverie",
+  "gender": "girl",
+  "origin": "French",
+  "meaning": "Daydream, musing",
+  "popularityByYear": [
+   36,
+   63,
+   56,
+   47,
+   47,
+   34,
+   37,
+   38,
+   58
+  ]
+ },
+ {
+  "name": "Sterling",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Of high quality, pure",
+  "popularityByYear": [
+   15,
+   16,
+   30,
+   39,
+   57,
+   69,
+   70,
+   90,
+   100
+  ]
+ },
+ {
+  "name": "Cody",
+  "gender": "unisex",
+  "origin": "Irish",
+  "meaning": "Helpful, a descendant of Cuidightheach",
+  "popularityByYear": [
+   4,
+   17,
+   18,
+   19,
+   26,
+   34,
+   45,
+   73,
+   100
+  ]
+ },
+ {
+  "name": "Wells",
+  "gender": "unisex",
+  "origin": "English",
+  "meaning": "Of the spring or well",
+  "popularityByYear": [
+   14,
+   34,
+   44,
+   54,
+   81,
+   94,
+   74,
+   66,
+   47
+  ]
+ }
+]
